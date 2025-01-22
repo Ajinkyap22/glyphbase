@@ -27,6 +27,9 @@ export async function GET(request: NextRequest) {
     },
     skip,
     take: Number(take),
+    orderBy: {
+      name: "asc",
+    },
   });
 
   return new Response(JSON.stringify(entities));
