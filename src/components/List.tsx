@@ -6,7 +6,8 @@ import { useRouter, useSearchParams } from "next/navigation";
 
 import { useInfiniteQuery } from "@tanstack/react-query";
 
-import EntityCard from "@/components/EntityCard";
+import GridView from "@/components/GridView";
+import ListView from "@/components/ListView";
 
 import { getEntities } from "@/services/entitiesService";
 
@@ -18,6 +19,8 @@ const List = () => {
   const page = Number(searchParams.get("page")) || 1;
   const search = searchParams.get("search") || "";
   const category = searchParams.get("category") || "";
+
+  const isList = searchParams.get("view") === "list";
 
   const {
     data,
@@ -116,16 +119,11 @@ const List = () => {
 
   return (
     <>
-      <div className="grid grid-cols-2 items-center justify-center gap-5 px-6 sm:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-8">
-        {entities?.map((entity) => (
-          <EntityCard
-            key={entity.id}
-            name={entity.name}
-            glyph={entity.glyph}
-            unicode={entity.unicode}
-          />
-        ))}
-      </div>
+      {isList ? (
+        <ListView entities={entities} />
+      ) : (
+        <GridView entities={entities} />
+      )}
 
       {isFetchingNextPage && (
         <p className="animate-pulse text-center text-foreground/70">

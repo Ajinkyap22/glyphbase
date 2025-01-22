@@ -1,10 +1,4 @@
-type Entity = {
-  id: string;
-  name: string;
-  category: string;
-  glyph: string;
-  unicode: string;
-};
+import { Entity } from "@/types/Entity";
 
 export const getEntities: (params: {
   search: string;
@@ -23,7 +17,7 @@ export const getEntities: (params: {
   limit: number;
 }) => {
   const response = await fetch(
-    `/api/entities?search=${search}&category=${category}&page=${page}&limit=${limit}`
+    `/api/entities?search=${search}&category=${category}&page=${page}&limit=${limit}`,
   );
 
   return response.json();

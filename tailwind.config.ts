@@ -16,6 +16,9 @@ export default {
         secondary: "rgb(var(--color-secondary) / <alpha-value>)",
         outline: "rgb(var(--outline) / <alpha-value>)",
       },
+      boxShadow: {
+        outline: "0 1px 2px 0 rgb(var(--outline) / <alpha-value>)",
+      },
     },
   },
   plugins: [],
