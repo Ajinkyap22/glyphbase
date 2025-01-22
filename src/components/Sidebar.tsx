@@ -33,18 +33,22 @@ const Sidebar = () => {
   };
 
   return (
-    <aside className="min-w-64 border-r border-outline p-4 flex flex-col gap-4 transition-colors duration-300">
-      <h2 className="font-semibold text-foreground/80">Categories</h2>
+    <aside className="flex min-w-64 flex-col gap-6 border-r border-outline/50 bg-background/50 p-6 transition-colors duration-300">
+      <h2 className="text-lg font-semibold tracking-wide text-foreground/80">
+        Categories
+      </h2>
 
-      <ul className="flex flex-col gap-1.5">
+      <ul className="flex flex-col gap-2">
         {categories.map((category) => (
           <li
             key={category}
             onClick={() => handleCategoryClick(category)}
             className={clsx(
-              "w-full rounded-md px-3 py-2 text-left cursor-pointer",
-              currentCategory === category && "bg-primary text-white",
-              currentCategory !== category && "hover:bg-foreground/5"
+              "w-full cursor-pointer rounded-lg px-4 py-2.5 text-left transition-all duration-200",
+              "text-sm font-medium",
+              currentCategory === category && "text-white bg-primary shadow-sm",
+              currentCategory !== category &&
+                "text-foreground/70 hover:bg-foreground/5 hover:text-foreground",
             )}
           >
             {category}
