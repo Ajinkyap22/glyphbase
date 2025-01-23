@@ -14,12 +14,12 @@ type Props = {
 
 const EntityRow = ({ glyph, category, name, unicode }: Props) => {
   return (
-    <tr className="border-b border-outline/50 transition-colors duration-200 hover:bg-foreground/5">
+    <tr className="border-b border-outline/50 hover:bg-foreground/5">
       <td className="p-4 text-center text-2xl">{glyph}</td>
 
       <td className="p-4 text-center text-foreground/70">{category}</td>
 
-      <td className="p-4 text-center text-foreground/70">
+      <td className="p-4 text-right text-foreground/70">
         <span className="inline-flex items-center gap-2">
           <span>{name}</span>
 

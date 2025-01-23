@@ -10,7 +10,7 @@ type Props = {
 
 const GridView = ({ entities }: Props) => {
   return (
-    <div className="grid grid-cols-2 items-center justify-center gap-5 px-6 sm:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-8">
+    <div className="grid grid-cols-2 items-center justify-center gap-5 px-3 sm:grid-cols-4 md:px-6 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-8">
       {entities?.map((entity) => (
         <EntityCard
           key={entity.id}

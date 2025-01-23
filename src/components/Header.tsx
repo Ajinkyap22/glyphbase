@@ -8,12 +8,15 @@ import { useSearchParams, useRouter } from "next/navigation";
 import { useTheme } from "next-themes";
 
 import GridIcon from "@/components/icons/GridIcon";
+import HamburgerIcon from "@/components/icons/HamburgerIcon";
 import ListIcon from "@/components/icons/ListIcon";
 
 import Moon from "@/icons/moon.svg";
 import Sun from "@/icons/sun.svg";
 
 import { useDebouncedCallback } from "@/hooks/useDebouncedCallback";
+
+import { useSidebar } from "@/providers/SidebarProvider";
 
 const Header = () => {
   const { theme, setTheme } = useTheme();
@@ -25,6 +28,8 @@ const Header = () => {
   const toggleTheme = () => {
     setTheme(theme === "dark" ? "light" : "dark");
   };
+
+  const { toggleSidebar } = useSidebar();
 
   const handleSearch = useDebouncedCallback(
     (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -50,11 +55,18 @@ const Header = () => {
   };
 
   return (
-    <div className="sticky top-0 z-10 flex items-center gap-x-3 border-b border-outline/20 bg-background/80 px-6 py-4 shadow-sm backdrop-blur-sm transition-all duration-300">
+    <div className="sticky top-0 z-10 flex items-center gap-x-3 border-b border-outline/20 bg-background/80 px-3 py-4 shadow-sm backdrop-blur-sm transition-shadow duration-300 md:px-6">
+      <button
+        className="shrink-0 rounded-md border border-outline p-1.5 md:hidden md:p-2.5"
+        onClick={toggleSidebar}
+      >
+        <HamburgerIcon />
+      </button>
+
       <input
         type="search"
         placeholder="Search by name or unicode"
-        className="w-full rounded-lg border border-outline bg-background px-4 py-2 outline-none transition-colors duration-300"
+        className="w-full rounded-lg border border-outline bg-background px-4 py-2 outline-none"
         defaultValue={searchParams.get("search") || ""}
         onChange={handleSearch.debouncedCallback}
       />
@@ -62,7 +74,7 @@ const Header = () => {
       <button
         title="Toggle view"
         onClick={toggleView}
-        className="shrink-0 rounded-md border border-outline p-2.5 transition-colors duration-300 hover:bg-foreground/5"
+        className="shrink-0 rounded-md border border-outline p-1.5 hover:bg-foreground/5 md:p-2.5"
       >
         {isList ? <GridIcon /> : <ListIcon />}
       </button>
@@ -70,7 +82,7 @@ const Header = () => {
       <button
         title="Toggle theme"
         onClick={toggleTheme}
-        className="shrink-0 rounded-md border border-outline p-2.5 transition-all duration-300 hover:bg-foreground/5"
+        className="shrink-0 rounded-md border border-outline p-1.5 hover:bg-foreground/5 md:p-2.5"
       >
         {theme === "dark" ? (
           <Image src={Sun} alt="Sun" className="size-6" />

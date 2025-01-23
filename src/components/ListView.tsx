@@ -10,9 +10,9 @@ type Props = {
 
 const ListView = ({ entities }: Props) => {
   return (
-    <table className="w-full table-fixed border-collapse overflow-hidden bg-background transition-colors duration-300">
+    <table className="w-full border-collapse bg-background md:table-fixed">
       <thead>
-        <tr className="border-b border-outline/50 transition-colors duration-300">
+        <tr className="border-b border-outline/50">
           <th className="p-4 text-center font-semibold text-foreground/70">
             Glyph
           </th>
@@ -21,7 +21,7 @@ const ListView = ({ entities }: Props) => {
             Category
           </th>
 
-          <th className="p-4 text-center font-semibold text-foreground/70">
+          <th className="p-4 text-right font-semibold text-foreground/70">
             HTML Entity
           </th>
 

@@ -118,9 +118,11 @@ const List = () => {
   }
 
   return (
-    <>
+    <div className="h-full w-full overflow-y-auto overflow-x-hidden">
       {isList ? (
-        <ListView entities={entities} />
+        <div className="w-full overflow-x-auto">
+          <ListView entities={entities} />
+        </div>
       ) : (
         <GridView entities={entities} />
       )}
@@ -138,7 +140,7 @@ const List = () => {
           <div className="spinner size-20 bg-primary"></div>
         </div>
       )}
-    </>
+    </div>
   );
 };
 
