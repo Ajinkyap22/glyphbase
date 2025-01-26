@@ -1,4 +1,5 @@
 import { Entity } from "@/types/Entity";
+import type { Suggestion } from "@/types/Suggestions";
 
 export const getEntities: (params: {
   search: string;
@@ -19,6 +20,14 @@ export const getEntities: (params: {
   const response = await fetch(
     `/api/entities?search=${search}&category=${category}&page=${page}&limit=${limit}`,
   );
+
+  return response.json();
+};
+
+export const getSuggestions: (params: {
+  search: string;
+}) => Promise<Suggestion[]> = async ({ search }: { search: string }) => {
+  const response = await fetch(`/api/suggestions?search=${search}`);
 
   return response.json();
 };
