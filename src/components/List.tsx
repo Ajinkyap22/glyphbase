@@ -22,6 +22,11 @@ const List = () => {
 
   const isList = searchParams.get("view") === "list";
 
+  const favorites =
+    category === "Favorites"
+      ? JSON.parse(localStorage.getItem("favorites") || "{}")
+      : undefined;
+
   const {
     data,
     fetchNextPage,
@@ -42,6 +47,7 @@ const List = () => {
     getNextPageParam: (lastPage, pages) => {
       return lastPage.length === LIMIT ? pages.length + 1 : undefined;
     },
+    enabled: category !== "Favorites",
   });
 
   const entities = data?.pages.flat();
@@ -92,7 +98,12 @@ const List = () => {
     );
   }
 
-  if (entities?.length === 0 && !isFetching && !isFetchingNextPage) {
+  if (
+    entities?.length === 0 &&
+    !isFetching &&
+    !isFetchingNextPage &&
+    !favorites
+  ) {
     return (
       <div className="flex h-full w-full flex-col items-center justify-center gap-y-4">
         <svg
@@ -121,10 +132,12 @@ const List = () => {
     <div className="h-full w-full overflow-y-auto overflow-x-hidden">
       {isList ? (
         <div className="w-full overflow-x-auto">
-          <ListView entities={entities} />
+          <ListView
+            entities={favorites ? Object.values(favorites) : entities}
+          />
         </div>
       ) : (
-        <GridView entities={entities} />
+        <GridView entities={favorites ? Object.values(favorites) : entities} />
       )}
 
       {isFetchingNextPage && (

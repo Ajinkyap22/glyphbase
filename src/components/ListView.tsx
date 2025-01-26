@@ -37,14 +37,7 @@ const ListView = ({ entities }: Props) => {
 
       <tbody>
         {entities?.map((entity) => (
-          <EntityRow
-            key={entity.id}
-            name={entity.name}
-            glyph={entity.glyph}
-            category={entity.category}
-            unicode={entity.unicode}
-            description={entity.description}
-          />
+          <EntityRow key={entity.id} entity={entity} />
         ))}
       </tbody>
     </table>

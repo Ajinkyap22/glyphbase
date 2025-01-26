@@ -3,17 +3,18 @@ import React, { useState } from "react";
 import clsx from "clsx";
 
 import CopyIcon from "@/components/icons/CopyIcon";
+import StarIcon from "@/components/icons/StarIcon";
 import TickIcon from "@/components/icons/TickIcon";
 
+import type { Entity } from "@/types/Entity";
+
 type Props = {
-  glyph: string;
-  category: string;
-  name: string;
-  unicode: string;
-  description: string;
+  entity: Entity;
 };
 
-const EntityRow = ({ glyph, category, name, unicode, description }: Props) => {
+const EntityRow = ({ entity }: Props) => {
+  const { glyph, category, name, unicode, description } = entity;
+
   return (
     <tr className="border-b border-outline/50 hover:bg-foreground/5">
       <td className="p-4 text-center text-2xl">{glyph}</td>
@@ -36,7 +37,11 @@ const EntityRow = ({ glyph, category, name, unicode, description }: Props) => {
         </span>
       </td>
 
-      <td className="p-4 text-center text-foreground/70">{description}</td>
+      <td className="p-4 text-center text-foreground/70">
+        <span>{description}</span>
+
+        <StarButton entity={entity} />
+      </td>
     </tr>
   );
 };
@@ -73,6 +78,39 @@ const CopyButton = ({ textToCopy }: { textToCopy: string }) => {
           "absolute inset-0 transition-all duration-200",
           isCopied && "scale-100 opacity-100",
           !isCopied && "scale-0 opacity-0",
+        )}
+      />
+    </button>
+  );
+};
+
+const StarButton = ({ entity }: { entity: Entity }) => {
+  const [isFavorite, setIsFavorite] = useState(
+    JSON.parse(localStorage.getItem("favorites") || "{}")[entity.id],
+  );
+
+  const handleStar = () => {
+    const favorites = JSON.parse(localStorage.getItem("favorites") || "{}");
+
+    if (isFavorite) {
+      delete favorites[entity.id];
+    } else {
+      favorites[entity.id] = entity;
+    }
+
+    localStorage.setItem("favorites", JSON.stringify(favorites));
+    setIsFavorite(!isFavorite);
+  };
+
+  return (
+    <button
+      className="mx-1 rounded-full p-1 hover:bg-foreground/5"
+      onClick={handleStar}
+    >
+      <StarIcon
+        className={clsx(
+          !isFavorite && "group-hover:stroke-yellow-400",
+          isFavorite && "fill-amber-400 stroke-amber-400",
         )}
       />
     </button>

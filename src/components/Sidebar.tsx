@@ -10,6 +10,7 @@ import { useSidebar } from "@/providers/SidebarProvider";
 
 const categories = [
   "All",
+  "Favorites",
   "Arrows",
   "Technical Symbols",
   "Currency",
