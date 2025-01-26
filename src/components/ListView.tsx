@@ -25,8 +25,12 @@ const ListView = ({ entities }: Props) => {
             HTML Entity
           </th>
 
-          <th className="p-4 text-center font-semibold text-foreground/70">
+          <th className="p-4 text-right font-semibold text-foreground/70">
             Unicode
+          </th>
+
+          <th className="p-4 text-center font-semibold text-foreground/70">
+            Description
           </th>
         </tr>
       </thead>
@@ -39,6 +43,7 @@ const ListView = ({ entities }: Props) => {
             glyph={entity.glyph}
             category={entity.category}
             unicode={entity.unicode}
+            description={entity.description}
           />
         ))}
       </tbody>

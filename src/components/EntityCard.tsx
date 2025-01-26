@@ -4,13 +4,19 @@ type Props = {
   name: string;
   glyph: string;
   unicode: string;
+  description: string;
 };
 
-const EntityCard = ({ name, glyph, unicode }: Props) => {
+const EntityCard = ({ name, glyph, unicode, description }: Props) => {
   return (
     <div className="flex flex-col items-center gap-1.5 rounded-lg border border-outline bg-background/50 p-2.5 hover:border-outline/50 hover:shadow-outline">
       {/* glyph */}
       <span className="text-4xl">{glyph}</span>
+
+      {/* description */}
+      <span className="break-all text-center text-xs text-foreground/60">
+        {description}
+      </span>
 
       <hr className="w-full border-outline" />
 

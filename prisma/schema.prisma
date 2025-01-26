@@ -13,4 +13,7 @@ model HtmlEntity {
   name      String
   unicode   String
   category  String
+  description String
+
+  @@index(fields: [name, unicode, description])
 }

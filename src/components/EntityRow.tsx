@@ -10,9 +10,10 @@ type Props = {
   category: string;
   name: string;
   unicode: string;
+  description: string;
 };
 
-const EntityRow = ({ glyph, category, name, unicode }: Props) => {
+const EntityRow = ({ glyph, category, name, unicode, description }: Props) => {
   return (
     <tr className="border-b border-outline/50 hover:bg-foreground/5">
       <td className="p-4 text-center text-2xl">{glyph}</td>
@@ -27,13 +28,15 @@ const EntityRow = ({ glyph, category, name, unicode }: Props) => {
         </span>
       </td>
 
-      <td className="p-4 text-center text-foreground/70">
+      <td className="p-4 text-right text-foreground/70">
         <span className="inline-flex items-center gap-2">
           <span>{unicode}</span>
 
           <CopyButton textToCopy={unicode} />
         </span>
       </td>
+
+      <td className="p-4 text-center text-foreground/70">{description}</td>
     </tr>
   );
 };

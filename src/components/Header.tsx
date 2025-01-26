@@ -45,7 +45,7 @@ const Header = () => {
 
       replace(`?${params.toString()}`);
     },
-    500,
+    300,
   );
 
   const toggleView = () => {
@@ -65,7 +65,7 @@ const Header = () => {
 
       <input
         type="search"
-        placeholder="Search by name or unicode"
+        placeholder="Search by name, unicode or description"
         className="w-full rounded-lg border border-outline bg-background px-4 py-2 outline-none"
         defaultValue={searchParams.get("search") || ""}
         onChange={handleSearch.debouncedCallback}

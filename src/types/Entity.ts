@@ -4,4 +4,5 @@ export type Entity = {
   category: string;
   glyph: string;
   unicode: string;
+  description: string;
 };

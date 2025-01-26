@@ -5,6 +5,7 @@ CREATE TABLE "HtmlEntity" (
     "name" TEXT NOT NULL,
     "unicode" TEXT NOT NULL,
     "category" TEXT NOT NULL,
+    "description" TEXT NOT NULL,
 
     CONSTRAINT "HtmlEntity_pkey" PRIMARY KEY ("id")
 );
