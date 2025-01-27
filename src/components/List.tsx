@@ -142,7 +142,7 @@ const List = () => {
       )}
 
       {isFetchingNextPage && (
-        <p className="animate-pulse text-center text-foreground/70">
+        <p className="animate-pulse pt-3 text-center text-foreground/70">
           Loading...
         </p>
       )}
