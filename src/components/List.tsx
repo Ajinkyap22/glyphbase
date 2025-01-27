@@ -8,6 +8,7 @@ import { useInfiniteQuery } from "@tanstack/react-query";
 
 import GridView from "@/components/GridView";
 import ListView from "@/components/ListView";
+import Loader from "@/components/Loader";
 
 import { getEntities } from "@/services/entitiesService";
 
@@ -148,11 +149,7 @@ const List = () => {
 
       <div ref={sentinelRef} className="h-10"></div>
 
-      {isFetching && !isFetchingNextPage && (
-        <div className="flex h-full w-full items-center justify-center text-foreground">
-          <div className="spinner size-20 bg-primary"></div>
-        </div>
-      )}
+      {isFetching && !isFetchingNextPage && <Loader />}
     </div>
   );
 };

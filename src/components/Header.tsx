@@ -39,6 +39,7 @@ const Header = () => {
   return (
     <div className="sticky top-0 z-10 flex items-center gap-x-3 border-b border-outline/20 bg-background/80 px-3 py-4 shadow-sm backdrop-blur-sm transition-shadow duration-300 md:px-6">
       <button
+        title="Toggle sidebar"
         className="shrink-0 rounded-md border border-outline p-1.5 md:hidden md:p-2.5"
         onClick={toggleSidebar}
       >

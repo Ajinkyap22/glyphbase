@@ -104,12 +104,13 @@ const StarButton = ({ entity }: { entity: Entity }) => {
 
   return (
     <button
+      title={isFavorite ? "Remove from favorites" : "Add to favorites"}
       className="mx-1 rounded-full p-1 hover:bg-foreground/5"
       onClick={handleStar}
     >
       <StarIcon
         className={clsx(
-          !isFavorite && "group-hover:stroke-yellow-400",
+          !isFavorite && "stroke-foreground/60 group-hover:stroke-yellow-400",
           isFavorite && "fill-amber-400 stroke-amber-400",
         )}
       />

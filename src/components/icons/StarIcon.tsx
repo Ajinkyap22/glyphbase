@@ -9,7 +9,7 @@ const StarIcon = ({ className }: { className?: string }) => {
       fill="none"
       viewBox="0 0 24 24"
       strokeWidth={1.5}
-      className={clsx("size-4 stroke-foreground/60", className)}
+      className={clsx("size-4", className)}
     >
       <path
         strokeLinecap="round"
