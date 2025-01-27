@@ -1,0 +1,2143 @@
+Name,Glyph,Character,Category,Description
+Aacute,Á,U+000C1,Latin Letters,Acute
+Aacute,Á,U+000C1,Latin Letters,Acute
+aacute,á,U+000E1,Latin Letters,Acute
+aacute,á,U+000E1,Latin Letters,Acute
+Abreve,Ă,U+00102,Latin Letters,Breve
+abreve,ă,U+00103,Latin Letters,Breve
+ac,∾,U+0223E,Mathematical Symbols,Approx
+acd,∿,U+0223F,Mathematical Symbols,Approx
+acE,∾̳,U+0223E U+00333,Mathematical Symbols,Approx
+Acirc,Â,U+000C2,Latin Letters,Circumflex
+Acirc,Â,U+000C2,Latin Letters,Circumflex
+acirc,â,U+000E2,Latin Letters,Circumflex
+acute,´,U+000B4,Punctuation,Acute
+acute,´,U+000B4,Punctuation,Acute
+Acy,А,U+00410,Latin Letters,Cyrillic
+acy,а,U+00430,Latin Letters,Cyrillic
+AElig,Æ,U+000C6,Latin Letters,AE
+AElig,Æ,U+000C6,Latin Letters,AE
+aelig,æ,U+000E6,Latin Letters,AE
+af,⁡,U+02061,Punctuation,Function
+Afr,𝔄,U+1D504,Latin Letters,Fraktur
+afr,𝔞,U+1D51E,Latin Letters,Fraktur
+Agrave,À,U+000C0,Latin Letters,Grave
+agrave,à,U+000E0,Latin Letters,Grave
+alefsym,ℵ,U+02135,Mathematical Symbols,Aleph
+aleph,ℵ,U+02135,Mathematical Symbols,Aleph
+Alpha,Α,U+00391,Greek Letters,Alpha
+alpha,α,U+003B1,Greek Letters,Alpha
+Amacr,Ā,U+00100,Latin Letters,Macron
+amacr,ā,U+00101,Latin Letters,Macron
+amalg,⨿,U+02A3F,Mathematical Symbols,Amalgamation
+AMP,&,U+00026,Punctuation,Ampersand
+AMP,&,U+00026,Punctuation,Ampersand
+amp,&,U+00026,Punctuation,Ampersand
+amp,&,U+00026,Punctuation,Ampersand
+And,⩓,U+02A53,Mathematical Symbols,And
+and,∧,U+02227,Mathematical Symbols,And
+andand,⩕,U+02A55,Mathematical Symbols,And
+andd,⩜,U+02A5C,Mathematical Symbols,And
+andslope,⩘,U+02A58,Mathematical Symbols,And
+andv,⩚,U+02A5A,Mathematical Symbols,And
+ang,∠,U+02220,Mathematical Symbols,Angle
+ange,⦤,U+029A4,Technical Symbols,Angle
+angle,∠,U+02220,Mathematical Symbols,Angle
+angmsd,∡,U+02221,Mathematical Symbols,Angle
+angmsdaa,⦨,U+029A8,Technical Symbols,Angle
+angmsdab,⦩,U+029A9,Technical Symbols,Angle
+angmsdac,⦪,U+029AA,Technical Symbols,Angle
+angmsdad,⦫,U+029AB,Technical Symbols,Angle
+angmsdae,⦬,U+029AC,Technical Symbols,Angle
+angmsdaf,⦭,U+029AD,Technical Symbols,Angle
+angmsdag,⦮,U+029AE,Technical Symbols,Angle
+angmsdah,⦯,U+029AF,Technical Symbols,Angle
+angrt,∟,U+0221F,Mathematical Symbols,Angle
+angrtvb,⊾,U+022BE,Mathematical Symbols,Angle
+angrtvbd,⦝,U+0299D,Technical Symbols,Angle
+angsph,∢,U+02222,Mathematical Symbols,Angle
+angst,Å,U+000C5,Latin Letters,Angstrom
+angzarr,⍼,U+0237C,Technical Symbols,Angle
+Aogon,Ą,U+00104,Latin Letters,Ogonek
+aogon,ą,U+00105,Latin Letters,Ogonek
+Aopf,𝔸,U+1D538,Latin Letters,DoubleStruck
+aopf,𝕒,U+1D552,Latin Letters,DoubleStruck
+ap,≈,U+02248,Mathematical Symbols,Approx
+apacir,⩯,U+02A6F,Mathematical Symbols,Approx
+apE,⩰,U+02A70,Mathematical Symbols,Approx
+ape,≊,U+0224A,Mathematical Symbols,Approx
+apid,≋,U+0224B,Mathematical Symbols,Approx
+apos,',U+00027,Punctuation,Apostrophe
+ApplyFunction,⁡,U+02061,Punctuation,Function
+approx,≈,U+02248,Mathematical Symbols,Approx
+approxeq,≊,U+0224A,Mathematical Symbols,Approx
+Aring,Å,U+000C5,Latin Letters,Ring
+Aring,Å,U+000C5,Latin Letters,Ring
+aring,å,U+000E5,Latin Letters,Ring
+aring,å,U+000E5,Latin Letters,Ring
+Ascr,𝒜,U+1D49C,Latin Letters,Script
+ascr,𝒶,U+1D4B6,Latin Letters,Script
+Assign,≔,U+02254,Mathematical Symbols,Assign
+ast,*,U+0002A,Mathematical Symbols,Asterisk
+asymp,≈,U+02248,Mathematical Symbols,Asymptotic
+asympeq,≍,U+0224D,Mathematical Symbols,Asymptotic
+Atilde,Ã,U+000C3,Latin Letters,Tilde
+Atilde,Ã,U+000C3,Latin Letters,Tilde
+atilde,ã,U+000E3,Latin Letters,Tilde
+atilde,ã,U+000E3,Latin Letters,Tilde
+Auml,Ä,U+000C4,Latin Letters,Umlaut
+Auml,Ä,U+000C4,Latin Letters,Umlaut
+auml,ä,U+000E4,Latin Letters,Umlaut
+auml,ä,U+000E4,Latin Letters,Umlaut
+awconint,∳,U+02233,Mathematical Symbols,Integral
+awint,⨑,U+02A11,Mathematical Symbols,Integral
+backcong,≌,U+0224C,Mathematical Symbols,Congruent
+backepsilon,϶,U+003F6,Greek Letters,Epsilon
+backprime,‵,U+02035,Technical Symbols,Prime
+backsim,∽,U+0223D,Mathematical Symbols,Similar
+backsimeq,⋍,U+022CD,Mathematical Symbols,Similar
+Backslash,∖,U+02216,Mathematical Symbols,Backslash
+Barv,⫧,U+02AE7,Mathematical Symbols,Bar
+barvee,⊽,U+022BD,Mathematical Symbols,Bar
+Barwed,⌆,U+02306,Technical Symbols,Bar
+barwed,⌅,U+02305,Technical Symbols,Bar
+barwedge,⌅,U+02305,Technical Symbols,Bar
+bbrk,⎵,U+023B5,Technical Symbols,Break
+bbrktbrk,⎶,U+023B6,Technical Symbols,Break
+bcong,≌,U+0224C,Mathematical Symbols,Congruent
+Bcy,Б,U+00411,Latin Letters,Cyrillic
+bcy,б,U+00431,Latin Letters,Cyrillic
+bdquo,„,U+0201E,Punctuation,Quote
+becaus,∵,U+02235,Mathematical Symbols,Because
+Because,∵,U+02235,Mathematical Symbols,Because
+because,∵,U+02235,Mathematical Symbols,Because
+bemptyv,⦰,U+029B0,Technical Symbols,Empty
+bepsi,϶,U+003F6,Greek Letters,Epsilon
+bernou,ℬ,U+0212C,Latin Letters,Bernoulli
+Bernoullis,ℬ,U+0212C,Latin Letters,Bernoulli
+Beta,Β,U+00392,Greek Letters,Beta
+beta,β,U+003B2,Greek Letters,Beta
+beth,ℶ,U+02136,Mathematical Symbols,Beth
+between,≬,U+0226C,Mathematical Symbols,Between
+Bfr,𝔅,U+1D505,Latin Letters,Fraktur
+bfr,𝔟,U+1D51F,Latin Letters,Fraktur
+bigcap,⋂,U+022C2,Mathematical Symbols,Intersection
+bigcirc,◯,U+025EF,Geometric Shapes,Circle
+bigcup,⋃,U+022C3,Mathematical Symbols,Union
+bigodot,⨀,U+02A00,Mathematical Symbols,Dot
+bigoplus,⨁,U+02A01,Mathematical Symbols,Plus
+bigotimes,⨂,U+02A02,Mathematical Symbols,Times
+bigsqcup,⨆,U+02A06,Mathematical Symbols,Square
+bigstar,★,U+02605,Miscellaneous Symbols,Star
+bigtriangledown,▽,U+025BD,Geometric Shapes,Triangle
+bigtriangleup,△,U+025B3,Geometric Shapes,Triangle
+biguplus,⨄,U+02A04,Mathematical Symbols,Union
+bigvee,⋁,U+022C1,Mathematical Symbols,Or
+bigwedge,⋀,U+022C0,Mathematical Symbols,And
+bkarow,⤍,U+0290D,Arrows,Arrow
+blacklozenge,⧫,U+029EB,Geometric Shapes,Lozenge
+blacksquare,▪,U+025AA,Geometric Shapes,Square
+blacktriangle,▴,U+025B4,Geometric Shapes,Triangle
+blacktriangledown,▾,U+025BE,Geometric Shapes,Triangle
+blacktriangleleft,◂,U+025C2,Geometric Shapes,Triangle
+blacktriangleright,▸,U+025B8,Geometric Shapes,Triangle
+blank,␣,U+02423,Technical Symbols,Blank
+blk12,▒,U+02592,Geometric Shapes,Block
+blk14,░,U+02591,Geometric Shapes,Block
+blk34,▓,U+02593,Geometric Shapes,Block
+block,█,U+02588,Geometric Shapes,Block
+bne,#NAME?,U+0003D U+020E5,Other,NotEqual
+bnequiv,≡⃥,U+02261 U+020E5,Mathematical Symbols,NotEquivalent
+bNot,⫭,U+02AED,Mathematical Symbols,Not
+bnot,⌐,U+02310,Technical Symbols,Not
+Bopf,𝔹,U+1D539,Latin Letters,DoubleStruck
+bopf,𝕓,U+1D553,Latin Letters,DoubleStruck
+bot,⊥,U+022A5,Mathematical Symbols,Bottom
+bottom,⊥,U+022A5,Mathematical Symbols,Bottom
+bowtie,⋈,U+022C8,Mathematical Symbols,Bowtie
+boxbox,⧉,U+029C9,Technical Symbols,Box
+boxDL,╗,U+02557,Geometric Shapes,Box
+boxDl,╖,U+02556,Geometric Shapes,Box
+boxdL,╕,U+02555,Geometric Shapes,Box
+boxdl,┐,U+02510,Geometric Shapes,Box
+boxDR,╔,U+02554,Geometric Shapes,Box
+boxDr,╓,U+02553,Geometric Shapes,Box
+boxdR,╒,U+02552,Geometric Shapes,Box
+boxdr,┌,U+0250C,Geometric Shapes,Box
+boxH,═,U+02550,Geometric Shapes,Box
+boxh,─,U+02500,Geometric Shapes,Box
+boxHD,╦,U+02566,Geometric Shapes,Box
+boxHd,╤,U+02564,Geometric Shapes,Box
+boxhD,╥,U+02565,Geometric Shapes,Box
+boxhd,┬,U+0252C,Geometric Shapes,Box
+boxHU,╩,U+02569,Geometric Shapes,Box
+boxHu,╧,U+02567,Geometric Shapes,Box
+boxhU,╨,U+02568,Geometric Shapes,Box
+boxhu,┴,U+02534,Geometric Shapes,Box
+boxminus,⊟,U+0229F,Mathematical Symbols,Minus
+boxplus,⊞,U+0229E,Mathematical Symbols,Plus
+boxtimes,⊠,U+022A0,Mathematical Symbols,Times
+boxUL,╝,U+0255D,Geometric Shapes,Box
+boxUl,╜,U+0255C,Geometric Shapes,Box
+boxuL,╛,U+0255B,Geometric Shapes,Box
+boxul,┘,U+02518,Geometric Shapes,Box
+boxUR,╚,U+0255A,Geometric Shapes,Box
+boxUr,╙,U+02559,Geometric Shapes,Box
+boxuR,╘,U+02558,Geometric Shapes,Box
+boxur,└,U+02514,Geometric Shapes,Box
+boxV,║,U+02551,Geometric Shapes,Box
+boxv,│,U+02502,Geometric Shapes,Box
+boxVH,╬,U+0256C,Geometric Shapes,Box
+boxVh,╫,U+0256B,Geometric Shapes,Box
+boxvH,╪,U+0256A,Geometric Shapes,Box
+boxvh,┼,U+0253C,Geometric Shapes,Box
+boxVL,╣,U+02563,Geometric Shapes,Box
+boxVl,╢,U+02562,Geometric Shapes,Box
+boxvL,╡,U+02561,Geometric Shapes,Box
+boxvl,┤,U+02524,Geometric Shapes,Box
+boxVR,╠,U+02560,Geometric Shapes,Box
+boxVr,╟,U+0255F,Geometric Shapes,Box
+boxvR,╞,U+0255E,Geometric Shapes,Box
+boxvr,├,U+0251C,Geometric Shapes,Box
+bprime,‵,U+02035,Technical Symbols,Prime
+Breve,˘,U+002D8,Punctuation,Breve
+breve,˘,U+002D8,Punctuation,Breve
+brvbar,¦,U+000A6,Punctuation,Bar
+brvbar,¦,U+000A6,Punctuation,Bar
+Bscr,ℬ,U+0212C,Latin Letters,Script
+bscr,𝒷,U+1D4B7,Latin Letters,Script
+bsemi,⁏,U+0204F,Punctuation,SemiColon
+bsim,∽,U+0223D,Mathematical Symbols,Similar
+bsime,⋍,U+022CD,Mathematical Symbols,Similar
+bsol,\,U+0005C,Punctuation,Backslash
+bsolb,⧅,U+029C5,Technical Symbols,Backslash
+bsolhsub,⟈,U+027C8,Technical Symbols,Backslash
+bull,•,U+02022,Punctuation,Bullet
+bullet,•,U+02022,Punctuation,Bullet
+bump,≎,U+0224E,Mathematical Symbols,Bump
+bumpE,⪮,U+02AAE,Mathematical Symbols,Bump
+bumpe,≏,U+0224F,Mathematical Symbols,Bump
+Bumpeq,≎,U+0224E,Mathematical Symbols,Bump
+bumpeq,≏,U+0224F,Mathematical Symbols,Bump
+Cacute,Ć,U+00106,Latin Letters,Acute
+cacute,ć,U+00107,Latin Letters,Acute
+Cap,⋒,U+022D2,Mathematical Symbols,Cap
+cap,∩,U+02229,Mathematical Symbols,Cap
+capand,⩄,U+02A44,Mathematical Symbols,Cap
+capbrcup,⩉,U+02A49,Mathematical Symbols,Cap
+capcap,⩋,U+02A4B,Mathematical Symbols,Cap
+capcup,⩇,U+02A47,Mathematical Symbols,Cap
+capdot,⩀,U+02A40,Mathematical Symbols,Cap
+CapitalDifferentialD,ⅅ,U+02145,Latin Letters,Differential
+caps,∩︀,U+02229 U+0FE00,Mathematical Symbols,Cap
+caret,⁁,U+02041,Punctuation,Caret
+caron,ˇ,U+002C7,Punctuation,Caron
+Cayleys,ℭ,U+0212D,Latin Letters,Cayley
+ccaps,⩍,U+02A4D,Mathematical Symbols,Cap
+Ccaron,Č,U+0010C,Latin Letters,Caron
+ccaron,č,U+0010D,Latin Letters,Caron
+Ccedil,Ç,U+000C7,Latin Letters,Cedilla
+ccedil;,ç,U+000E7,Latin Letters,cedilla
+ccedil,ç,U+000E7,Latin Letters,cedilla
+Ccirc;,Ĉ,U+00108,Latin Letters,C-circumflex
+ccirc;,ĉ,U+00109,Latin Letters,c-circumflex
+Cconint;,∰,U+02230,Mathematical Symbols,contour-integral
+ccups;,⩌,U+02A4C,Mathematical Symbols,cup-cap
+ccupssm;,⩐,U+02A50,Mathematical Symbols,cup-cap-small
+Cdot;,Ċ,U+0010A,Latin Letters,C-dot
+cdot;,ċ,U+0010B,Latin Letters,c-dot
+cedil;,¸,U+000B8,Punctuation,cedilla
+cedil,¸,U+000B8,Punctuation,cedilla
+Cedilla;,¸,U+000B8,Punctuation,cedilla
+cemptyv;,⦲,U+029B2,Technical Symbols,empty-set
+cent;,¢,U+000A2,Currency,cent
+cent,¢,U+000A2,Currency,cent
+CenterDot;,·,U+000B7,Punctuation,center-dot
+centerdot;,·,U+000B7,Punctuation,center-dot
+Cfr;,ℭ,U+0212D,Latin Letters,C-fraktur
+cfr;,𝔠,U+1D520,Latin Letters,c-fraktur
+CHcy;,Ч,U+00427,Latin Letters,Cyrillic-CH
+chcy;,ч,U+00447,Latin Letters,Cyrillic-ch
+check;,✓,U+02713,Miscellaneous Symbols,check
+checkmark;,✓,U+02713,Miscellaneous Symbols,checkmark
+Chi;,Χ,U+003A7,Greek Letters,Greek-chi
+chi;,χ,U+003C7,Greek Letters,Greek-chi
+cir;,○,U+025CB,Geometric Shapes,circle
+circ;,ˆ,U+002C6,Punctuation,circumflex
+circeq;,≗,U+02257,Mathematical Symbols,circle-equal
+circlearrowleft;,↺,U+021BA,Arrows,circle-arrow-left
+circlearrowright;,↻,U+021BB,Arrows,circle-arrow-right
+circledast;,⊛,U+0229B,Mathematical Symbols,circle-asterisk
+circledcirc;,⊚,U+0229A,Mathematical Symbols,circle-circle
+circleddash;,⊝,U+0229D,Mathematical Symbols,circle-dash
+CircleDot;,⊙,U+02299,Mathematical Symbols,circle-dot
+circledR;,®,U+000AE,Other,registered
+circledS;,Ⓢ,U+024C8,Other,circled-S
+CircleMinus;,⊖,U+02296,Mathematical Symbols,circle-minus
+CirclePlus;,⊕,U+02295,Mathematical Symbols,circle-plus
+CircleTimes;,⊗,U+02297,Mathematical Symbols,circle-times
+cirE;,⧃,U+029C3,Technical Symbols,circle-E
+cire;,≗,U+02257,Mathematical Symbols,circle-equal
+cirfnint;,⨐,U+02A10,Mathematical Symbols,circle-integral
+cirmid;,⫯,U+02AEF,Mathematical Symbols,circle-mid
+cirscir;,⧂,U+029C2,Technical Symbols,circle-circle
+ClockwiseContourIntegral;,∲,U+02232,Mathematical Symbols,clockwise-integral
+CloseCurlyDoubleQuote;,”,U+0201D,Punctuation,close-double-quote
+CloseCurlyQuote;,’,U+02019,Punctuation,close-quote
+clubs;,♣,U+02663,Miscellaneous Symbols,club
+clubsuit;,♣,U+02663,Miscellaneous Symbols,club
+Colon;,∷,U+02237,Mathematical Symbols,colon
+colon;,:,U+0003A,Punctuation,colon
+Colone;,⩴,U+02A74,Mathematical Symbols,colon-equal
+colone;,≔,U+02254,Mathematical Symbols,colon-equal
+coloneq;,≔,U+02254,Mathematical Symbols,colon-equal
+comma;, ,U+0002C,Punctuation,comma
+commat;,@,U+00040,Punctuation,at
+comp;,∁,U+02201,Mathematical Symbols,complement
+compfn;,∘,U+02218,Mathematical Symbols,compose-function
+complement;,∁,U+02201,Mathematical Symbols,complement
+complexes;,ℂ,U+02102,Latin Letters,complex
+cong;,≅,U+02245,Mathematical Symbols,congruent
+congdot;,⩭,U+02A6D,Mathematical Symbols,congruent-dot
+Congruent;,≡,U+02261,Mathematical Symbols,congruent
+Conint;,∯,U+0222F,Mathematical Symbols,contour-integral
+conint;,∮,U+0222E,Mathematical Symbols,contour-integral
+ContourIntegral;,∮,U+0222E,Mathematical Symbols,contour-integral
+Copf;,ℂ,U+02102,Latin Letters,C-double-struck
+copf;,𝕔,U+1D554,Latin Letters,c-double-struck
+coprod;,∐,U+02210,Mathematical Symbols,co-product
+Coproduct;,∐,U+02210,Mathematical Symbols,co-product
+COPY;,©,U+000A9,Other,copyright
+COPY,©,U+000A9,Other,copyright
+copy;,©,U+000A9,Other,copyright
+copy,©,U+000A9,Other,copyright
+copysr;,℗,U+02117,Other,sound-recording-copyright
+CounterClockwiseContourIntegral;,∳,U+02233,Mathematical Symbols,counterclockwise-integral
+crarr;,↵,U+021B5,Arrows,carriage-return
+Cross;,⨯,U+02A2F,Mathematical Symbols,cross
+cross;,✗,U+02717,Miscellaneous Symbols,cross
+Cscr;,𝒞,U+1D49E,Latin Letters,C-script
+cscr;,𝒸,U+1D4B8,Latin Letters,c-script
+csub;,⫏,U+02ACF,Mathematical Symbols,subset
+csube;,⫑,U+02AD1,Mathematical Symbols,subset-equal
+csup;,⫐,U+02AD0,Mathematical Symbols,superset
+csupe;,⫒,U+02AD2,Mathematical Symbols,superset-equal
+ctdot;,⋯,U+022EF,Mathematical Symbols,three-dots
+cudarrl;,⤸,U+02938,Arrows,arrow-left-right
+cudarrr;,⤵,U+02935,Arrows,arrow-right-down
+cuepr;,⋞,U+022DE,Mathematical Symbols,precedes-equal
+cuesc;,⋟,U+022DF,Mathematical Symbols,succeeds-equal
+cularr;,↶,U+021B6,Arrows,curve-arrow-left
+cularrp;,⤽,U+0293D,Arrows,curve-arrow-left
+Cup;,⋓,U+022D3,Mathematical Symbols,union
+cup;,∪,U+0222A,Mathematical Symbols,union
+cupbrcap;,⩈,U+02A48,Mathematical Symbols,union-intersection
+CupCap;,≍,U+0224D,Mathematical Symbols,union-cap
+cupcap;,⩆,U+02A46,Mathematical Symbols,union-cap
+cupcup;,⩊,U+02A4A,Mathematical Symbols,union-union
+cupdot;,⊍,U+0228D,Mathematical Symbols,union-dot
+cupor;,⩅,U+02A45,Mathematical Symbols,union-or
+cups,∪︀,U+0222A U+0FE00,Mathematical Symbols,union
+curarr;,↷,U+021B7,Arrows,curve-arrow-right
+curarrm;,⤼,U+0293C,Arrows,curve-arrow-right
+curlyeqprec;,⋞,U+022DE,Mathematical Symbols,curly-equal-precedes
+curlyeqsucc;,⋟,U+022DF,Mathematical Symbols,curly-equal-succeeds
+curlyvee;,⋎,U+022CE,Mathematical Symbols,curly-vee
+curlywedge;,⋏,U+022CF,Mathematical Symbols,curly-wedge
+curren;,¤,U+000A4,Currency,currency
+curren,¤,U+000A4,Currency,currency
+curvearrowleft;,↶,U+021B6,Arrows,curve-arrow-left
+curvearrowright;,↷,U+021B7,Arrows,curve-arrow-right
+cuvee;,⋎,U+022CE,Mathematical Symbols,curly-vee
+cuwed;,⋏,U+022CF,Mathematical Symbols,curly-wedge
+cwconint;,∲,U+02232,Mathematical Symbols,clockwise-integral
+cwint;,∱,U+02231,Mathematical Symbols,clockwise-integral
+cylcty;,⌭,U+0232D,Technical Symbols,cylindricity
+Dagger;,‡,U+02021,Punctuation,double-dagger
+dagger;,†,U+02020,Punctuation,dagger
+daleth;,ℸ,U+02138,Mathematical Symbols,daleth
+Darr;,↡,U+021A1,Arrows,down-arrow
+dArr;,⇓,U+021D3,Arrows,down-arrow
+darr;,↓,U+02193,Arrows,down-arrow
+dash;,‐,U+02010,Punctuation,dash
+Dashv;,⫤,U+02AE4,Mathematical Symbols,vertical-dash
+dashv;,⊣,U+022A3,Mathematical Symbols,vertical-dash
+dbkarow;,⤏,U+0290F,Arrows,double-arrow
+dblac;,˝,U+002DD,Punctuation,double-acute
+Dcaron;,Ď,U+0010E,Latin Letters,D-caron
+dcaron;,ď,U+0010F,Latin Letters,d-caron
+Dcy;,Д,U+00414,Latin Letters,Cyrillic-D
+dcy;,д,U+00434,Latin Letters,Cyrillic-d
+DD;,ⅅ,U+02145,Latin Letters,capital-D
+dd;,ⅆ,U+02146,Latin Letters,small-d
+ddagger;,‡,U+02021,Punctuation,double-dagger
+ddarr;,⇊,U+021CA,Arrows,double-down-arrow
+DDotrahd;,⤑,U+02911,Arrows,double-arrow
+ddotseq;,⩷,U+02A77,Mathematical Symbols,double-dot-equal
+deg;,°,U+000B0,Technical Symbols,degree
+deg,°,U+000B0,Technical Symbols,degree
+Del;,∇,U+02207,Mathematical Symbols,del
+Delta;,Δ,U+00394,Greek Letters,Greek-Delta
+delta;,δ,U+003B4,Greek Letters,Greek-delta
+demptyv;,⦱,U+029B1,Technical Symbols,empty-set
+dfisht;,⥿,U+0297F,Technical Symbols,fish-tail
+Dfr;,𝔇,U+1D507,Latin Letters,D-fraktur
+dfr;,𝔡,U+1D521,Latin Letters,d-fraktur
+dHar;,⥥,U+02965,Arrows,down-harpoon
+dharl;,⇃,U+021C3,Arrows,down-harpoon-left
+dharr;,⇂,U+021C2,Arrows,down-harpoon-right
+DiacriticalAcute;,´,U+000B4,Punctuation,acute
+DiacriticalDot;,˙,U+002D9,Punctuation,dot
+DiacriticalDoubleAcute;,˝,U+002DD,Punctuation,double-acute
+DiacriticalGrave;,`,U+00060,Punctuation,grave
+DiacriticalTilde;,˜,U+002DC,Punctuation,tilde
+diam;,⋄,U+022C4,Mathematical Symbols,diamond
+Diamond;,⋄,U+022C4,Mathematical Symbols,diamond
+diamond;,⋄,U+022C4,Mathematical Symbols,diamond
+diamondsuit;,♦,U+02666,Miscellaneous Symbols,diamond
+diams;,♦,U+02666,Miscellaneous Symbols,diamond
+die;,¨,U+000A8,Punctuation,diaeresis
+DifferentialD;,ⅆ,U+02146,Latin Letters,differential
+digamma;,ϝ,U+003DD,Greek Letters,digamma
+disin;,⋲,U+022F2,Mathematical Symbols,disjoint
+div;,÷,U+000F7,Mathematical Symbols,divide
+divide;,÷,U+000F7,Mathematical Symbols,divide
+divide,÷,U+000F7,Mathematical Symbols,divide
+divideontimes;,⋇,U+022C7,Mathematical Symbols,divide-times
+divonx;,⋇,U+022C7,Mathematical Symbols,divide-times
+DJcy;,Ђ,U+00402,Latin Letters,Cyrillic-DJ
+djcy;,ђ,U+00452,Latin Letters,Cyrillic-dj
+dlcorn;,⌞,U+0231E,Technical Symbols,down-left-corner
+dlcrop;,⌍,U+0230D,Technical Symbols,down-left-crop
+dollar;, $,U+00024,Currency,dollar
+Dopf;,𝔻,U+1D53B,Latin Letters,D-double-struck
+dopf;,𝕕,U+1D555,Latin Letters,d-double-struck
+Dot;,¨,U+000A8,Punctuation,dot
+dot;,˙,U+002D9,Punctuation,dot
+DotDot;,◌⃜,U+020DC,Punctuation,dot-dot
+doteq;,≐,U+02250,Mathematical Symbols,dot-equal
+doteqdot;,≑,U+02251,Mathematical Symbols,dot-equal-dot
+DotEqual;,≐,U+02250,Mathematical Symbols,dot-equal
+dotminus;,∸,U+02238,Mathematical Symbols,dot-minus
+dotplus;,∔,U+02214,Mathematical Symbols,dot-plus
+dotsquare;,⊡,U+022A1,Mathematical Symbols,dot-square
+doublebarwedge;,⌆,U+02306,Technical Symbols,double-bar-wedge
+DoubleContourIntegral;,∯,U+0222F,Mathematical Symbols,double-contour-integral
+DoubleDot;,¨,U+000A8,Punctuation,double-dot
+DoubleDownArrow;,⇓,U+021D3,Arrows,double-down-arrow
+DoubleLeftArrow;,⇐,U+021D0,Arrows,double-left-arrow
+DoubleLeftRightArrow;,⇔,U+021D4,Arrows,double-left-right-arrow
+DoubleLeftTee;,⫤,U+02AE4,Mathematical Symbols,double-left-tee
+DoubleLongLeftArrow;,⟸,U+027F8,Arrows,double-long-left-arrow
+DoubleLongLeftRightArrow;,⟺,U+027FA,Arrows,double-long-left-right-arrow
+DoubleLongRightArrow;,⟹,U+027F9,Arrows,double-long-right-arrow
+DoubleRightArrow;,⇒,U+021D2,Arrows,double-right-arrow
+DoubleRightTee;,⊨,U+022A8,Mathematical Symbols,double-right-tee
+DoubleUpArrow;,⇑,U+021D1,Arrows,double-up-arrow
+DoubleUpDownArrow;,⇕,U+021D5,Arrows,double-up-down-arrow
+DoubleVerticalBar;,∥,U+02225,Mathematical Symbols,double-vertical-bar
+DownArrow;,↓,U+02193,Arrows,down-arrow
+Downarrow;,⇓,U+021D3,Arrows,down-arrow
+downarrow;,↓,U+02193,Arrows,down-arrow
+DownArrowBar;,⤓,U+02913,Arrows,down-arrow-bar
+DownArrowUpArrow;,⇵,U+021F5,Arrows,down-arrow-up-arrow
+DownBreve;,◌̑,U+00311,Other,down-breve
+downdownarrows;,⇊,U+021CA,Arrows,down-down-arrows
+downharpoonleft;,⇃,U+021C3,Arrows,down-harpoon-left
+downharpoonright;,⇂,U+021C2,Arrows,down-harpoon-right
+DownLeftRightVector;,⥐,U+02950,Arrows,down-left-right-vector
+DownLeftTeeVector;,⥞,U+0295E,Arrows,down-left-tee-vector
+DownLeftVector;,↽,U+021BD,Arrows,down-left-vector
+DownLeftVectorBar;,⥖,U+02956,Arrows,down-left-vector-bar
+DownRightTeeVector;,⥟,U+0295F,Arrows,down-right-tee-vector
+DownRightVector;,⇁,U+021C1,Arrows,down-right-vector
+DownRightVectorBar;,⥗,U+02957,Arrows,down-right-vector-bar
+DownTee;,⊤,U+022A4,Mathematical Symbols,down-tee
+DownTeeArrow;,↧,U+021A7,Arrows,down-tee-arrow
+drbkarow;,⤐,U+02910,Arrows,down-right-arrow
+drcorn;,⌟,U+0231F,Technical Symbols,down-right-corner
+drcrop;,⌌,U+0230C,Technical Symbols,down-right-crop
+Dscr;,𝒟,U+1D49F,Latin Letters,D-script
+dscr;,𝒹,U+1D4B9,Latin Letters,d-script
+DScy;,Ѕ,U+00405,Latin Letters,Cyrillic-DS
+dscy;,ѕ,U+00455,Latin Letters,Cyrillic-ds
+dsol;,⧶,U+029F6,Technical Symbols,solidus
+Dstrok;,Đ,U+00110,Latin Letters,D-stroke
+dstrok;,đ,U+00111,Latin Letters,d-stroke
+dtdot;,⋱,U+022F1,Mathematical Symbols,three-dots
+dtri;,▿,U+025BF,Geometric Shapes,down-triangle
+dtrif;,▾,U+025BE,Geometric Shapes,down-triangle
+duarr;,⇵,U+021F5,Arrows,down-up-arrows
+duhar;,⥯,U+0296F,Arrows,down-up-harpoons
+dwangle;,⦦,U+029A6,Technical Symbols,down-angle
+DZcy;,Џ,U+0040F,Latin Letters,Cyrillic-DZ
+dzcy;,џ,U+0045F,Latin Letters,Cyrillic-dz
+dzigrarr;,⟿,U+027FF,Arrows,zigzag-arrow
+Eacute;,É,U+000C9,Latin Letters,E-acute
+Eacute,É,U+000C9,Latin Letters,E-acute
+eacute;,é,U+000E9,Latin Letters,e-acute
+eacute,é,U+000E9,Latin Letters,e-acute
+easter;,⩮,U+02A6E,Mathematical Symbols,easter
+Ecaron;,Ě,U+0011A,Latin Letters,E-caron
+ecaron;,ě,U+0011B,Latin Letters,e-caron
+ecir;,≖,U+02256,Mathematical Symbols,equal-circle
+Ecirc;,Ê,U+000CA,Latin Letters,E-circumflex
+Ecirc,Ê,U+000CA,Latin Letters,E-circumflex
+ecirc;,ê,U+000EA,Latin Letters,e-circumflex
+ecirc,ê,U+000EA,Latin Letters,e-circumflex
+ecolon;,≕,U+02255,Mathematical Symbols,equal-colon
+Ecy;,Э,U+0042D,Latin Letters,Cyrillic-E
+ecy;,э,U+0044D,Latin Letters,Cyrillic-e
+eDDot;,⩷,U+02A77,Mathematical Symbols,equal-dot
+Edot;,Ė,U+00116,Latin Letters,E-dot
+eDot;,≑,U+02251,Mathematical Symbols,equal-dot
+edot;,ė,U+00117,Latin Letters,e-dot
+ee;,ⅇ,U+02147,Latin Letters,e
+efDot;,≒,U+02252,Mathematical Symbols,equal-falling-dot
+Efr;,𝔈,U+1D508,Latin Letters,E-fraktur
+efr;,𝔢,U+1D522,Latin Letters,e-fraktur
+eg;,⪚,U+02A9A,Mathematical Symbols,equal-greater
+Egrave;,È,U+000C8,Latin Letters,E-grave
+Egrave,È,U+000C8,Latin Letters,E-grave
+egrave;,è,U+000E8,Latin Letters,e-grave
+egrave,è,U+000E8,Latin Letters,e-grave
+egs;,⪖,U+02A96,Mathematical Symbols,equal-greater-slant
+egsdot;,⪘,U+02A98,Mathematical Symbols,equal-greater-dot
+el;,⪙,U+02A99,Mathematical Symbols,equal-less
+Element;,∈,U+02208,Mathematical Symbols,element
+elinters;,⏧,U+023E7,Technical Symbols,element-intersection
+ell;,ℓ,U+02113,Latin Letters,ell
+els;,⪕,U+02A95,Mathematical Symbols,equal-less-slant
+elsdot;,⪗,U+02A97,Mathematical Symbols,equal-less-dot
+Emacr;,Ē,U+00112,Latin Letters,E-macron
+emacr;,ē,U+00113,Latin Letters,e-macron
+empty;,∅,U+02205,Mathematical Symbols,empty
+emptyset;,∅,U+02205,Mathematical Symbols,empty-set
+EmptySmallSquare;,◻,U+025FB,Geometric Shapes,empty-small-square
+emptyv;,∅,U+02205,Mathematical Symbols,empty
+EmptyVerySmallSquare;,▫,U+025AB,Geometric Shapes,empty-very-small-square
+emsp;, ,U+02003,Punctuation,em-space
+emsp13;, ,U+02004,Punctuation,em-space-1/3
+emsp14;, ,U+02005,Punctuation,em-space-1/4
+ENG;,Ŋ,U+0014A,Latin Letters,ENG
+eng;,ŋ,U+0014B,Latin Letters,eng
+ensp;, ,U+02002,Punctuation,en-space
+Eogon;,Ę,U+00118,Latin Letters,E-ogonek
+eogon;,ę,U+00119,Latin Letters,e-ogonek
+Eopf;,𝔼,U+1D53C,Latin Letters,E-double-struck
+eopf;,𝕖,U+1D556,Latin Letters,e-double-struck
+epar;,⋕,U+022D5,Mathematical Symbols,equal-parallel
+eparsl;,⧣,U+029E3,Technical Symbols,equal-parallel-slant
+eplus;,⩱,U+02A71,Mathematical Symbols,equal-plus
+epsi;,ε,U+003B5,Greek Letters,epsilon
+Epsilon;,Ε,U+00395,Greek Letters,Epsilon
+epsilon;,ε,U+003B5,Greek Letters,epsilon
+epsiv;,ϵ,U+003F5,Greek Letters,epsilon
+eqcirc;,≖,U+02256,Mathematical Symbols,equal-circle
+eqcolon;,≕,U+02255,Mathematical Symbols,equal-colon
+eqsim;,≂,U+02242,Mathematical Symbols,equal-similar
+eqslantgtr;,⪖,U+02A96,Mathematical Symbols,equal-slant-greater
+eqslantless;,⪕,U+02A95,Mathematical Symbols,equal-slant-less
+Equal;,⩵,U+02A75,Mathematical Symbols,equal
+equals;,=,U+0003D,Mathematical Symbols,equal
+EqualTilde;,≂,U+02242,Mathematical Symbols,equal-tilde
+equest;,≟,U+0225F,Mathematical Symbols,equal-question
+Equilibrium;,⇌,U+021CC,Arrows,equilibrium
+equiv;,≡,U+02261,Mathematical Symbols,equivalent
+equivDD;,⩸,U+02A78,Mathematical Symbols,equivalent-double-dot
+eqvparsl;,⧥,U+029E5,Technical Symbols,equal-parallel-slant
+erarr;,⥱,U+02971,Arrows,equal-right-arrow
+erDot;,≓,U+02253,Mathematical Symbols,equal-rising-dot
+Escr;,ℰ,U+02130,Latin Letters,E-script
+escr;,ℯ,U+0212F,Latin Letters,e-script
+esdot;,≐,U+02250,Mathematical Symbols,equal-dot
+Esim;,⩳,U+02A73,Mathematical Symbols,equal-similar
+esim;,≂,U+02242,Mathematical Symbols,equal-similar
+Eta;,Η,U+00397,Greek Letters,Eta
+eta;,η,U+003B7,Greek Letters,eta
+ETH;,Ð,U+000D0,Latin Letters,ETH
+ETH,Ð,U+000D0,Latin Letters,ETH
+eth;,ð,U+000F0,Latin Letters,eth
+eth,ð,U+000F0,Latin Letters,eth
+Euml;,Ë,U+000CB,Latin Letters,E-diaeresis
+Euml,Ë,U+000CB,Latin Letters,E-diaeresis
+euml;,ë,U+000EB,Latin Letters,e-diaeresis
+euml,ë,U+000EB,Latin Letters,e-diaeresis
+euro;,€,U+020AC,Currency,euro
+excl;,!,U+00021,Punctuation,exclamation
+exist;,∃,U+02203,Mathematical Symbols,exist
+Exists;,∃,U+02203,Mathematical Symbols,exist
+expectation;,ℰ,U+02130,Latin Letters,expectation
+ExponentialE;,ⅇ,U+02147,Latin Letters,exponential
+exponentiale;,ⅇ,U+02147,Latin Letters,exponential
+fallingdotseq;,≒,U+02252,Mathematical Symbols,falling-dot-equal
+Fcy;,Ф,U+00424,Latin Letters,Cyrillic-F
+fcy;,ф,U+00444,Latin Letters,Cyrillic-f
+female;,♀,U+02640,Miscellaneous Symbols,female
+ffilig;,ﬃ,U+0FB03,Latin Letters,ff-ligature
+fflig;,ﬀ,U+0FB00,Latin Letters,ff-ligature
+ffllig;,ﬄ,U+0FB04,Latin Letters,ff-ligature
+Ffr;,𝔉,U+1D509,Latin Letters,F-fraktur
+ffr;,𝔣,U+1D523,Latin Letters,f-fraktur
+filig;,ﬁ,U+0FB01,Latin Letters,fi-ligature
+FilledSmallSquare;,◼,U+025FC,Geometric Shapes,filled-small-square
+FilledVerySmallSquare;,▪,U+025AA,Geometric Shapes,filled-very-small-square
+fjlig;,fj,U+00066 U+0006A,Latin Letters,fj-ligature
+flat;,♭,U+0266D,Miscellaneous Symbols,flat
+fllig;,ﬂ,U+0FB02,Latin Letters,fl-ligature
+fltns;,▱,U+025B1,Geometric Shapes,flatness
+fnof;,ƒ,U+00192,Latin Letters,hooked-f
+Fopf;,𝔽,U+1D53D,Latin Letters,F-double-struck
+fopf;,𝕗,U+1D557,Latin Letters,f-double-struck
+ForAll;,∀,U+02200,Mathematical Symbols,for-all
+forall;,∀,U+02200,Mathematical Symbols,for-all
+fork;,⋔,U+022D4,Mathematical Symbols,fork
+forkv;,⫙,U+02AD9,Mathematical Symbols,vertical-fork
+Fouriertrf;,ℱ,U+02131,Latin Letters,Fourier-transform
+fpartint;,⨍,U+02A0D,Mathematical Symbols,partial-integral
+frac12;,½,U+000BD,Mathematical Symbols,half
+frac12,½,U+000BD,Mathematical Symbols,half
+frac13;,⅓,U+02153,Mathematical Symbols,one-third
+frac14;,¼,U+000BC,Mathematical Symbols,one-fourth
+frac14,¼,U+000BC,Mathematical Symbols,one-fourth
+frac15;,⅕,U+02155,Mathematical Symbols,one-fifth
+frac16;,⅙,U+02159,Mathematical Symbols,one-sixth
+frac18;,⅛,U+0215B,Mathematical Symbols,one-eighth
+frac23;,⅔,U+02154,Mathematical Symbols,two-thirds
+frac25;,⅖,U+02156,Mathematical Symbols,two-fifths
+frac34;,¾,U+000BE,Mathematical Symbols,three-fourths
+frac34,¾,U+000BE,Mathematical Symbols,three-fourths
+frac35;,⅗,U+02157,Mathematical Symbols,three-fifths
+frac38;,⅜,U+0215C,Mathematical Symbols,three-eighths
+frac45;,⅘,U+02158,Mathematical Symbols,four-fifths
+frac56;,⅚,U+0215A,Mathematical Symbols,five-sixths
+frac58;,⅝,U+0215D,Mathematical Symbols,five-eighths
+frac78;,⅞,U+0215E,Mathematical Symbols,seven-eighths
+frasl;,⁄,U+02044,Punctuation,slash
+frown;,⌢,U+02322,Technical Symbols,frown
+Fscr;,ℱ,U+02131,Latin Letters,F-script
+fscr;,𝒻,U+1D4BB,Latin Letters,f-script
+gacute;,ǵ,U+001F5,Latin Letters,g-acute
+Gamma;,Γ,U+00393,Greek Letters,Gamma
+gamma;,γ,U+003B3,Greek Letters,gamma
+Gammad;,Ϝ,U+003DC,Greek Letters,Gammad
+gammad;,ϝ,U+003DD,Greek Letters,gammad
+gap;,⪆,U+02A86,Mathematical Symbols,greater-approx
+Gbreve;,Ğ,U+0011E,Latin Letters,G-breve
+gbreve;,ğ,U+0011F,Latin Letters,g-breve
+Gcedil;,Ģ,U+00122,Latin Letters,G-cedilla
+Gcirc;,Ĝ,U+0011C,Latin Letters,G-circumflex
+gcirc;,ĝ,U+0011D,Latin Letters,g-circumflex
+Gcy;,Г,U+00413,Latin Letters,Cyrillic-G
+gcy;,г,U+00433,Latin Letters,Cyrillic-g
+Gdot;,Ġ,U+00120,Latin Letters,G-dot
+gdot;,ġ,U+00121,Latin Letters,g-dot
+gE;,≧,U+02267,Mathematical Symbols,greater-equal
+ge;,≥,U+02265,Mathematical Symbols,greater-equal
+gEl;,⪌,U+02A8C,Mathematical Symbols,greater-equal-less
+gel;,⋛,U+022DB,Mathematical Symbols,greater-equal-less
+geq;,≥,U+02265,Mathematical Symbols,greater-equal
+geqq;,≧,U+02267,Mathematical Symbols,greater-equal
+geqslant;,⩾,U+02A7E,Mathematical Symbols,greater-equal-slant
+ges;,⩾,U+02A7E,Mathematical Symbols,greater-equal-slant
+gescc;,⪩,U+02AA9,Mathematical Symbols,greater-equal-closed
+gesdot;,⪀,U+02A80,Mathematical Symbols,greater-equal-dot
+gesdoto;,⪂,U+02A82,Mathematical Symbols,greater-equal-dot-open
+gesdotol;,⪄,U+02A84,Mathematical Symbols,greater-equal-dot-open-left
+gesl;,⋛︀,U+022DB U+0FE00,Mathematical Symbols,greater-equal-slant
+gesles;,⪔,U+02A94,Mathematical Symbols,greater-equal-less
+Gfr;,𝔊,U+1D50A,Latin Letters,G-fraktur
+gfr;,𝔤,U+1D524,Latin Letters,g-fraktur
+Gg;,⋙,U+022D9,Mathematical Symbols,greater-greater
+gg;,≫,U+0226B,Mathematical Symbols,greater-greater
+ggg;,⋙,U+022D9,Mathematical Symbols,greater-greater
+gimel;,ℷ,U+02137,Mathematical Symbols,gimel
+GJcy;,Ѓ,U+00403,Latin Letters,Cyrillic-GJ
+gjcy;,ѓ,U+00453,Latin Letters,Cyrillic-gj
+gl;,≷,U+02277,Mathematical Symbols,greater-less
+gla;,⪥,U+02AA5,Mathematical Symbols,greater-less-approx
+glE;,⪒,U+02A92,Mathematical Symbols,greater-less-equal
+glj;,⪤,U+02AA4,Mathematical Symbols,greater-less-joint
+gnap;,⪊,U+02A8A,Mathematical Symbols,greater-not-approx
+gnapprox;,⪊,U+02A8A,Mathematical Symbols,greater-not-approx
+gnE;,≩,U+02269,Mathematical Symbols,greater-not-equal
+gne;,⪈,U+02A88,Mathematical Symbols,greater-not-equal
+gneq;,⪈,U+02A88,Mathematical Symbols,greater-not-equal
+gneqq;,≩,U+02269,Mathematical Symbols,greater-not-equal
+gnsim;,⋧,U+022E7,Mathematical Symbols,greater-not-similar
+Gopf;,𝔾,U+1D53E,Latin Letters,G-double-struck
+gopf;,𝕘,U+1D558,Latin Letters,g-double-struck
+grave;,`,U+00060,Punctuation,grave
+GreaterEqual;,≥,U+02265,Mathematical Symbols,greater-equal
+GreaterEqualLess;,⋛,U+022DB,Mathematical Symbols,greater-equal-less
+GreaterFullEqual;,≧,U+02267,Mathematical Symbols,greater-full-equal
+GreaterGreater;,⪢,U+02AA2,Mathematical Symbols,greater-greater
+GreaterLess;,≷,U+02277,Mathematical Symbols,greater-less
+GreaterSlantEqual;,⩾,U+02A7E,Mathematical Symbols,greater-slant-equal
+GreaterTilde;,≳,U+02273,Mathematical Symbols,greater-tilde
+Gscr;,𝒢,U+1D4A2,Latin Letters,G-script
+gscr;,ℊ,U+0210A,Latin Letters,g-script
+gsim;,≳,U+02273,Mathematical Symbols,greater-similar
+gsime;,⪎,U+02A8E,Mathematical Symbols,greater-similar-equal
+gsiml;,⪐,U+02A90,Mathematical Symbols,greater-similar-less
+GT;,>,U+0003E,Mathematical Symbols,greater
+GT,>,U+0003E,Mathematical Symbols,greater
+Gt;,≫,U+0226B,Mathematical Symbols,greater
+gt;,>,U+0003E,Mathematical Symbols,greater
+gt,>,U+0003E,Mathematical Symbols,greater
+gtcc;,⪧,U+02AA7,Mathematical Symbols,greater-closed
+gtcir;,⩺,U+02A7A,Mathematical Symbols,greater-circle
+gtdot;,⋗,U+022D7,Mathematical Symbols,greater-dot
+gtlPar;,⦕,U+02995,Technical Symbols,greater-left-paren
+gtquest;,⩼,U+02A7C,Mathematical Symbols,greater-question
+gtrapprox;,⪆,U+02A86,Mathematical Symbols,greater-approx
+gtrarr;,⥸,U+02978,Arrows,greater-arrow
+gtrdot;,⋗,U+022D7,Mathematical Symbols,greater-dot
+gtreqless;,⋛,U+022DB,Mathematical Symbols,greater-equal-less
+gtreqqless;,⪌,U+02A8C,Mathematical Symbols,greater-equal-less
+gtrless;,≷,U+02277,Mathematical Symbols,greater-less
+gtrsim;,≳,U+02273,Mathematical Symbols,greater-similar
+gvertneqq;,≩︀,U+02269 U+0FE00,Mathematical Symbols,greater-not-equal
+gvnE;,≩︀,U+02269 U+0FE00,Mathematical Symbols,greater-not-equal
+Hacek;,ˇ,U+002C7,Punctuation,caron
+hairsp;, ,U+0200A,Punctuation,hair-space
+half;,½,U+000BD,Mathematical Symbols,half
+hamilt;,ℋ,U+0210B,Latin Letters,Hamiltonian
+HARDcy;,Ъ,U+0042A,Latin Letters,Cyrillic-HARD
+hardcy;,ъ,U+0044A,Latin Letters,Cyrillic-hard
+hArr;,⇔,U+021D4,Arrows,left-right-arrow
+harr;,↔,U+02194,Arrows,left-right-arrow
+harrcir;,⥈,U+02948,Arrows,left-right-arrow-circle
+harrw;,↭,U+021AD,Arrows,left-right-arrow-wave
+Hat;,^,U+0005E,Punctuation,caret
+hbar;,ℏ,U+0210F,Latin Letters,h-bar
+Hcirc;,Ĥ,U+00124,Latin Letters,H-circumflex
+hcirc;,ĥ,U+00125,Latin Letters,h-circumflex
+hearts;,♥,U+02665,Miscellaneous Symbols,heart
+heartsuit;,♥,U+02665,Miscellaneous Symbols,heart
+hellip;,…,U+02026,Punctuation,ellipsis
+hercon;,⊹,U+022B9,Mathematical Symbols,hermitian-conjugate
+Hfr;,ℌ,U+0210C,Latin Letters,H-fraktur
+hfr;,𝔥,U+1D525,Latin Letters,h-fraktur
+HilbertSpace;,ℋ,U+0210B,Latin Letters,Hilbert-space
+hksearow;,⤥,U+02925,Arrows,hook-se-arrow
+hkswarow;,⤦,U+02926,Arrows,hook-sw-arrow
+hoarr;,⇿,U+021FF,Arrows,horizontal-arrow
+homtht;,∻,U+0223B,Mathematical Symbols,homothetic
+hookleftarrow;,↩,U+021A9,Arrows,hook-left-arrow
+hookrightarrow;,↪,U+021AA,Arrows,hook-right-arrow
+Hopf;,ℍ,U+0210D,Latin Letters,H-double-struck
+hopf;,𝕙,U+1D559,Latin Letters,h-double-struck
+horbar;,―,U+02015,Punctuation,horizontal-bar
+HorizontalLine;,─,U+02500,Geometric Shapes,horizontal-line
+Hscr;,ℋ,U+0210B,Latin Letters,H-script
+hscr;,𝒽,U+1D4BD,Latin Letters,h-script
+hslash;,ℏ,U+0210F,Latin Letters,h-bar
+Hstrok;,Ħ,U+00126,Latin Letters,H-stroke
+hstrok;,ħ,U+00127,Latin Letters,h-stroke
+HumpDownHump;,≎,U+0224E,Mathematical Symbols,hump-down-hump
+HumpEqual;,≏,U+0224F,Mathematical Symbols,hump-equal
+hybull;,⁃,U+02043,Punctuation,hyphen-bullet
+hyphen;,‐,U+02010,Punctuation,hyphen
+Iacute;,Í,U+000CD,Latin Letters,I-acute
+Iacute,Í,U+000CD,Latin Letters,I-acute
+iacute;,í,U+000ED,Latin Letters,i-acute
+iacute,í,U+000ED,Latin Letters,i-acute
+ic;,⁣,U+02063,Punctuation,invisible-comma
+Icirc;,Î,U+000CE,Latin Letters,I-circumflex
+Icirc,Î,U+000CE,Latin Letters,I-circumflex
+icirc;,î,U+000EE,Latin Letters,i-circumflex
+icirc,î,U+000EE,Latin Letters,i-circumflex
+Icy;,И,U+00418,Latin Letters,Cyrillic-I
+icy;,и,U+00438,Latin Letters,Cyrillic-i
+Idot;,İ,U+00130,Latin Letters,I-dot
+IEcy;,Е,U+00415,Latin Letters,Cyrillic-IE
+iecy;,е,U+00435,Latin Letters,Cyrillic-ie
+iexcl;,¡,U+000A1,Punctuation,inverted-exclamation
+iexcl,¡,U+000A1,Punctuation,inverted-exclamation
+iff;,⇔,U+021D4,Arrows,if-and-only-if
+Ifr;,ℑ,U+02111,Latin Letters,I-fraktur
+ifr;,𝔦,U+1D526,Latin Letters,i-fraktur
+Igrave;,Ì,U+000CC,Latin Letters,I-grave
+Igrave,Ì,U+000CC,Latin Letters,I-grave
+igrave;,ì,U+000EC,Latin Letters,i-grave
+igrave,ì,U+000EC,Latin Letters,i-grave
+ii;,ⅈ,U+02148,Latin Letters,imaginary-i
+iiiint;,⨌,U+02A0C,Mathematical Symbols,quadruple-integral
+iiint;,∭,U+0222D,Mathematical Symbols,triple-integral
+iinfin;,⧜,U+029DC,Technical Symbols,infinite-integral
+iiota;,℩,U+02129,Latin Letters,iota
+IJlig;,Ĳ,U+00132,Latin Letters,IJ-ligature
+ijlig;,ĳ,U+00133,Latin Letters,ij-ligature
+Im;,ℑ,U+02111,Latin Letters,imaginary
+Imacr;,Ī,U+0012A,Latin Letters,I-macron
+imacr;,ī,U+0012B,Latin Letters,i-macron
+image;,ℑ,U+02111,Latin Letters,imaginary
+ImaginaryI;,ⅈ,U+02148,Latin Letters,imaginary-i
+imagline;,ℐ,U+02110,Latin Letters,imaginary-line
+imagpart;,ℑ,U+02111,Latin Letters,imaginary-part
+imath;,ı,U+00131,Latin Letters,dotless-i
+imof;,⊷,U+022B7,Mathematical Symbols,image-of
+imped;,Ƶ,U+001B5,Latin Letters,impedance
+Implies;,⇒,U+021D2,Arrows,implies
+in;,∈,U+02208,Mathematical Symbols,element
+incare;,℅,U+02105,Latin Letters,in-care-of
+infin;,∞,U+0221E,Mathematical Symbols,infinity
+infintie;,⧝,U+029DD,Technical Symbols,infinite-tie
+inodot;,ı,U+00131,Latin Letters,dotless-i
+Int;,∬,U+0222C,Mathematical Symbols,double-integral
+int;,∫,U+0222B,Mathematical Symbols,integral
+intcal;,⊺,U+022BA,Mathematical Symbols,intercalate
+integers;,ℤ,U+02124,Latin Letters,integers
+Integral;,∫,U+0222B,Mathematical Symbols,integral
+intercal;,⊺,U+022BA,Mathematical Symbols,intercalate
+Intersection;,⋂,U+022C2,Mathematical Symbols,intersection
+intlarhk;,⨗,U+02A17,Mathematical Symbols,integral-hook
+intprod;,⨼,U+02A3C,Mathematical Symbols,integral-product
+InvisibleComma;,⁣,U+02063,Punctuation,invisible-comma
+InvisibleTimes;,⁢,U+02062,Punctuation,invisible-times
+IOcy;,Ё,U+00401,Latin Letters,Cyrillic-IO
+iocy;,ё,U+00451,Latin Letters,Cyrillic-io
+Iogon;,Į,U+0012E,Latin Letters,I-ogonek
+iogon;,į,U+0012F,Latin Letters,i-ogonek
+Iopf;,𝕀,U+1D540,Latin Letters,I-double-struck
+iopf;,𝕚,U+1D55A,Latin Letters,i-double-struck
+Iota;,Ι,U+00399,Greek Letters,Iota
+iota;,ι,U+003B9,Greek Letters,iota
+iprod;,⨼,U+02A3C,Mathematical Symbols,integral-product
+iquest;,¿,U+000BF,Punctuation,inverted-question
+iquest,¿,U+000BF,Punctuation,inverted-question
+Iscr;,ℐ,U+02110,Latin Letters,I-script
+iscr;,𝒾,U+1D4BE,Latin Letters,i-script
+isin;,∈,U+02208,Mathematical Symbols,element
+isindot;,⋵,U+022F5,Mathematical Symbols,element-dot
+isinE;,⋹,U+022F9,Mathematical Symbols,element-e
+isins;,⋴,U+022F4,Mathematical Symbols,element-s
+isinsv;,⋳,U+022F3,Mathematical Symbols,element-sv
+isinv;,∈,U+02208,Mathematical Symbols,element
+it;,⁢,U+02062,Punctuation,invisible-times
+Itilde;,Ĩ,U+00128,Latin Letters,I-tilde
+itilde;,ĩ,U+00129,Latin Letters,i-tilde
+Iukcy;,І,U+00406,Latin Letters,Cyrillic-I
+iukcy;,і,U+00456,Latin Letters,Cyrillic-i
+Iuml;,Ï,U+000CF,Latin Letters,I-diaeresis
+Iuml,Ï,U+000CF,Latin Letters,I-diaeresis
+iuml;,ï,U+000EF,Latin Letters,i-diaeresis
+iuml,ï,U+000EF,Latin Letters,i-diaeresis
+Jcirc;,Ĵ,U+00134,Latin Letters,J-circumflex
+jcirc;,ĵ,U+00135,Latin Letters,j-circumflex
+Jcy;,Й,U+00419,Latin Letters,Cyrillic-J
+Jfr;,𝔍,U+1D50D,Latin Letters,J-fraktur
+jfr;,𝔧,U+1D527,Latin Letters,j-fraktur
+jmath;,ȷ,U+00237,Latin Letters,j-math
+Jopf;,𝕁,U+1D541,Latin Letters,J-double-struck
+jopf;,𝕛,U+1D55B,Latin Letters,j-double-struck
+Jscr;,𝒥,U+1D4A5,Latin Letters,J-script
+jscr;,𝒿,U+1D4BF,Latin Letters,j-script
+Jsercy;,Ј,U+00408,Latin Letters,Cyrillic-JE
+jsercy;,ј,U+00458,Latin Letters,Cyrillic-je
+Jukcy;,Є,U+00404,Latin Letters,Cyrillic-JU
+jukcy;,є,U+00454,Latin Letters,Cyrillic-ju
+Kappa;,Κ,U+0039A,Greek Letters,Kappa
+kappa;,κ,U+003BA,Greek Letters,kappa
+kappav;,ϰ,U+003F0,Greek Letters,kappa-var
+Kcedil;,Ķ,U+00136,Latin Letters,K-cedilla
+kcedil;,ķ,U+00137,Latin Letters,k-cedilla
+Kcy;,К,U+0041A,Latin Letters,Cyrillic-K
+kcy;,к,U+0043A,Latin Letters,Cyrillic-k
+Kfr;,𝔎,U+1D50E,Latin Letters,K-fraktur
+kfr;,𝔨,U+1D528,Latin Letters,k-fraktur
+kgreen;,ĸ,U+00138,Latin Letters,k-greenlandic
+KHcy;,Х,U+00425,Latin Letters,Cyrillic-KH
+khcy;,х,U+00445,Latin Letters,Cyrillic-kh
+KJcy;,Ќ,U+0040C,Latin Letters,Cyrillic-KJ
+kjcy;,ќ,U+0045C,Latin Letters,Cyrillic-kj
+Kopf;,𝕂,U+1D542,Latin Letters,K-double-struck
+kopf;,𝕜,U+1D55C,Latin Letters,k-double-struck
+Kscr;,𝒦,U+1D4A6,Latin Letters,K-script
+kscr;,𝓀,U+1D4C0,Latin Letters,k-script
+lAarr;,⇚,U+021DA,Arrows,left-arrow
+Lacute;,Ĺ,U+00139,Latin Letters,L-acute
+lacute;,ĺ,U+0013A,Latin Letters,l-acute
+laemptyv;,⦴,U+029B4,Technical Symbols,empty-set
+lagran;,ℒ,U+02112,Latin Letters,Lagrange
+Lambda;,Λ,U+0039B,Greek Letters,Lambda
+lambda;,λ,U+003BB,Greek Letters,lambda
+Lang;,⟪,U+027EA,Technical Symbols,left-angle
+lang;,⟨,U+027E8,Technical Symbols,left-angle
+langd;,⦑,U+02991,Technical Symbols,left-angle
+langle;,⟨,U+027E8,Technical Symbols,left-angle
+lap;,⪅,U+02A85,Mathematical Symbols,less-approx
+Laplacetrf;,ℒ,U+02112,Latin Letters,Laplace-transform
+laquo;,«,U+000AB,Punctuation,left-quote
+laquo,«,U+000AB,Punctuation,left-quote
+Larr;,↞,U+0219E,Arrows,left-arrow
+lArr;,⇐,U+021D0,Arrows,left-arrow
+larr;,←,U+02190,Arrows,left-arrow
+larrb;,⇤,U+021E4,Arrows,left-arrow-bar
+larrbfs;,⤟,U+0291F,Arrows,left-arrow-bar
+larrfs;,⤝,U+0291D,Arrows,left-arrow
+larrhk;,↩,U+021A9,Arrows,left-arrow-hook
+larrlp;,↫,U+021AB,Arrows,left-arrow-loop
+larrpl;,⤹,U+02939,Arrows,left-arrow
+larrsim;,⥳,U+02973,Arrows,left-arrow-similar
+larrtl;,↢,U+021A2,Arrows,left-arrow-tail
+lat;,⪫,U+02AAB,Mathematical Symbols,less-than
+lAtail;,⤛,U+0291B,Arrows,left-arrow-tail
+latail;,⤙,U+02919,Arrows,left-arrow-tail
+late;,⪭,U+02AAD,Mathematical Symbols,less-than-equal
+lates;,⪭︀,U+02AAD U+0FE00,Mathematical Symbols,less-than-equal
+lBarr;,⤎,U+0290E,Arrows,left-arrow
+lbarr;,⤌,U+0290C,Arrows,left-arrow
+lbbrk;,❲,U+02772,Technical Symbols,left-bracket
+lbrace;,{,U+0007B,Punctuation,left-brace
+lbrack;,[,U+0005B,Punctuation,left-bracket
+lbrke;,⦋,U+0298B,Technical Symbols,left-bracket
+lbrksld;,⦏,U+0298F,Technical Symbols,left-bracket
+lbrkslu;,⦍,U+0298D,Technical Symbols,left-bracket
+Lcaron;,Ľ,U+0013D,Latin Letters,L-caron
+lcaron;,ľ,U+0013E,Latin Letters,l-caron
+Lcedil;,Ļ,U+0013B,Latin Letters,L-cedilla
+lcedil;,ļ,U+0013C,Latin Letters,l-cedilla
+lceil;,⌈,U+02308,Technical Symbols,left-ceiling
+lcub;,{,U+0007B,Punctuation,left-brace
+Lcy;,Л,U+0041B,Latin Letters,Cyrillic-L
+lcy;,л,U+0043B,Latin Letters,Cyrillic-l
+ldca;,⤶,U+02936,Arrows,left-arrow
+ldquo;,“,U+0201C,Punctuation,left-quote
+ldquor;,„,U+0201E,Punctuation,left-quote
+ldrdhar;,⥧,U+02967,Arrows,left-arrow
+ldrushar;,⥋,U+0294B,Arrows,left-arrow
+ldsh;,↲,U+021B2,Arrows,left-arrow
+lE;,≦,U+02266,Mathematical Symbols,less-equal
+le;,≤,U+02264,Mathematical Symbols,less-equal
+LeftAngleBracket;,⟨,U+027E8,Technical Symbols,left-angle
+LeftArrow;,←,U+02190,Arrows,left-arrow
+Leftarrow;,⇐,U+021D0,Arrows,left-arrow
+leftarrow;,←,U+02190,Arrows,left-arrow
+LeftArrowBar;,⇤,U+021E4,Arrows,left-arrow-bar
+LeftArrowRightArrow;,⇆,U+021C6,Arrows,left-right-arrow
+leftarrowtail;,↢,U+021A2,Arrows,left-arrow-tail
+LeftCeiling;,⌈,U+02308,Technical Symbols,left-ceiling
+LeftDoubleBracket;,⟦,U+027E6,Technical Symbols,left-bracket
+LeftDownTeeVector;,⥡,U+02961,Arrows,left-arrow
+LeftDownVector;,⇃,U+021C3,Arrows,left-arrow
+LeftDownVectorBar;,⥙,U+02959,Arrows,left-arrow
+LeftFloor;,⌊,U+0230A,Technical Symbols,left-floor
+leftharpoondown;,↽,U+021BD,Arrows,left-arrow
+leftharpoonup;,↼,U+021BC,Arrows,left-arrow
+leftleftarrows;,⇇,U+021C7,Arrows,left-arrow
+LeftRightArrow;,↔,U+02194,Arrows,left-right-arrow
+Leftrightarrow;,⇔,U+021D4,Arrows,left-right-arrow
+leftrightarrow;,↔,U+02194,Arrows,left-right-arrow
+leftrightarrows;,⇆,U+021C6,Arrows,left-right-arrow
+leftrightharpoons;,⇋,U+021CB,Arrows,left-right-arrow
+leftrightsquigarrow;,↭,U+021AD,Arrows,left-right-arrow
+LeftRightVector;,⥎,U+0294E,Arrows,left-right-arrow
+LeftTee;,⊣,U+022A3,Mathematical Symbols,left-tee
+LeftTeeArrow;,↤,U+021A4,Arrows,left-arrow
+LeftTeeVector;,⥚,U+0295A,Arrows,left-arrow
+leftthreetimes;,⋋,U+022CB,Mathematical Symbols,left-three-times
+LeftTriangle;,⊲,U+022B2,Mathematical Symbols,left-triangle
+LeftTriangleBar;,⧏,U+029CF,Mathematical Symbols,left-triangle
+LeftTriangleEqual;,⊴,U+022B4,Mathematical Symbols,left-triangle-equal
+LeftUpDownVector;,⥑,U+02951,Arrows,left-arrow
+LeftUpTeeVector;,⥠,U+02960,Arrows,left-arrow
+LeftUpVector;,↿,U+021BF,Arrows,left-arrow
+LeftUpVectorBar;,⥘,U+02958,Arrows,left-arrow
+LeftVector;,↼,U+021BC,Arrows,left-arrow
+LeftVectorBar;,⥒,U+02952,Arrows,left-arrow
+lEg;,⪋,U+02A8B,Mathematical Symbols,less-equal-greater
+leg;,⋚,U+022DA,Mathematical Symbols,less-equal-greater
+leq;,≤,U+02264,Mathematical Symbols,less-equal
+leqq;,≦,U+02266,Mathematical Symbols,less-equal
+leqslant;,⩽,U+02A7D,Mathematical Symbols,less-equal-slant
+les;,⩽,U+02A7D,Mathematical Symbols,less-equal-slant
+lescc;,⪨,U+02AA8,Mathematical Symbols,less-equal-closed
+lesdot;,⩿,U+02A7F,Mathematical Symbols,less-equal-dot
+lesdoto;,⪁,U+02A81,Mathematical Symbols,less-equal-dot-open
+lesdotor;,⪃,U+02A83,Mathematical Symbols,less-equal-dot-open-right
+lesg;,⋚︀,U+022DA U+0FE00,Mathematical Symbols,less-equal-greater
+lesges;,⪓,U+02A93,Mathematical Symbols,less-equal-greater
+lessapprox;,⪅,U+02A85,Mathematical Symbols,less-approx
+lessdot;,⋖,U+022D6,Mathematical Symbols,less-dot
+lesseqgtr;,⋚,U+022DA,Mathematical Symbols,less-equal-greater
+lesseqqgtr;,⪋,U+02A8B,Mathematical Symbols,less-equal-greater
+LessEqualGreater;,⋚,U+022DA,Mathematical Symbols,less-equal-greater
+LessFullEqual;,≦,U+02266,Mathematical Symbols,less-full-equal
+LessGreater;,≶,U+02276,Mathematical Symbols,less-greater
+lessgtr;,≶,U+02276,Mathematical Symbols,less-greater
+LessLess;,⪡,U+02AA1,Mathematical Symbols,less-less
+lesssim;,≲,U+02272,Mathematical Symbols,less-similar
+LessSlantEqual;,⩽,U+02A7D,Mathematical Symbols,less-slant-equal
+LessTilde;,≲,U+02272,Mathematical Symbols,less-tilde
+lfisht;,⥼,U+0297C,Technical Symbols,left-fish
+lfloor;,⌊,U+0230A,Technical Symbols,left-floor
+Lfr;,𝔏,U+1D50F,Latin Letters,L-fraktur
+lfr;,𝔩,U+1D529,Latin Letters,l-fraktur
+lg;,≶,U+02276,Mathematical Symbols,less-greater
+lgE;,⪑,U+02A91,Mathematical Symbols,less-greater-equal
+lHar;,⥢,U+02962,Arrows,left-arrow
+lhard;,↽,U+021BD,Arrows,left-arrow
+lharu;,↼,U+021BC,Arrows,left-arrow
+lharul;,⥪,U+0296A,Arrows,left-arrow
+lhblk;,▄,U+02584,Geometric Shapes,lower-half-block
+LJcy;,Љ,U+00409,Latin Letters,Cyrillic-LJ
+ljcy;,љ,U+00459,Latin Letters,Cyrillic-lj
+Ll;,⋘,U+022D8,Mathematical Symbols,less-less
+ll;,≪,U+0226A,Mathematical Symbols,less-less
+llarr;,⇇,U+021C7,Arrows,left-arrow
+llcorner;,⌞,U+0231E,Technical Symbols,left-corner
+Lleftarrow;,⇚,U+021DA,Arrows,left-arrow
+llhard;,⥫,U+0296B,Arrows,left-arrow
+lltri;,◺,U+025FA,Geometric Shapes,left-triangle
+Lmidot;,Ŀ,U+0013F,Latin Letters,L-dot
+lmidot;,ŀ,U+00140,Latin Letters,l-dot
+lmoust;,⎰,U+023B0,Technical Symbols,left-moustache
+lmoustache,⎰,U+023B0,Technical Symbols,left-moustache
+lnap,⪉,U+02A89,Mathematical Symbols,less-not-approx
+lnapprox,⪉,U+02A89,Mathematical Symbols,less-not-approx
+lnE,≨,U+02268,Mathematical Symbols,less-not-equal
+lne,⪇,U+02A87,Mathematical Symbols,less-not-equal
+lneq,⪇,U+02A87,Mathematical Symbols,less-not-equal
+lneqq,≨,U+02268,Mathematical Symbols,less-not-equal
+lnsim,⋦,U+022E6,Mathematical Symbols,less-not-similar
+loang,⟬,U+027EC,Technical Symbols,left-angle
+loarr,⇽,U+021FD,Arrows,left-arrow
+lobrk,⟦,U+027E6,Technical Symbols,left-bracket
+LongLeftArrow,⟵,U+027F5,Arrows,left-arrow
+Longleftarrow,⟸,U+027F8,Arrows,left-arrow
+longleftarrow,⟵,U+027F5,Arrows,left-arrow
+LongLeftRightArrow,⟷,U+027F7,Arrows,left-right-arrow
+Longleftrightarrow,⟺,U+027FA,Arrows,left-right-arrow
+longleftrightarrow,⟷,U+027F7,Arrows,left-right-arrow
+longmapsto,⟼,U+027FC,Arrows,left-mapsto
+LongRightArrow,⟶,U+027F6,Arrows,right-arrow
+Longrightarrow,⟹,U+027F9,Arrows,right-arrow
+longrightarrow,⟶,U+027F6,Arrows,right-arrow
+looparrowleft,↫,U+021AB,Arrows,left-arrow-loop
+looparrowright,↬,U+021AC,Arrows,right-arrow-loop
+lopar,⦅,U+02985,Technical Symbols,left-paren
+Lopf,𝕃,U+1D543,Latin Letters,L-double-struck
+lopf,𝕝,U+1D55D,Latin Letters,l-double-struck
+loplus,⨭,U+02A2D,Mathematical Symbols,plus
+lotimes,⨴,U+02A34,Mathematical Symbols,times
+lowast,∗,U+02217,Mathematical Symbols,low-asterisk
+lowbar,_,U+0005F,Punctuation,underscore
+LowerLeftArrow,↙,U+02199,Arrows,left-arrow
+LowerRightArrow,↘,U+02198,Arrows,right-arrow
+loz,◊,U+025CA,Geometric Shapes,lozenge
+lozenge,◊,U+025CA,Geometric Shapes,lozenge
+lozf,⧫,U+029EB,Geometric Shapes,lozenge
+lpar,(,U+00028,Punctuation,left-paren
+lparlt,⦓,U+02993,Technical Symbols,left-paren
+lrarr,⇆,U+021C6,Arrows,left-right-arrow
+lrcorner,⌟,U+0231F,Technical Symbols,right-corner
+lrhar,⇋,U+021CB,Arrows,left-right-arrow
+lrhard,⥭,U+0296D,Arrows,left-right-arrow
+lrm,‎,U+0200E,Punctuation,left-right-mark
+lrtri,⊿,U+022BF,Mathematical Symbols,left-right-triangle
+lsaquo,‹,U+02039,Punctuation,left-quote
+Lscr,ℒ,U+02112,Latin Letters,L-script
+lscr,𝓁,U+1D4C1,Latin Letters,l-script
+Lsh,↰,U+021B0,Arrows,left-arrow
+lsh,↰,U+021B0,Arrows,left-arrow
+lsim,≲,U+02272,Mathematical Symbols,less-similar
+lsime,⪍,U+02A8D,Mathematical Symbols,less-similar-equal
+lsimg,⪏,U+02A8F,Mathematical Symbols,less-similar-greater
+lsqb,[,U+0005B,Punctuation,left-bracket
+lsquo,‘,U+02018,Punctuation,left-quote
+lsquor,‚,U+0201A,Punctuation,left-quote
+Lstrok,Ł,U+00141,Latin Letters,L-stroke
+lstrok,ł,U+00142,Latin Letters,l-stroke
+LT,<,U+0003C,Mathematical Symbols,less-than
+LT,<,U+0003C,Mathematical Symbols,less-than
+Lt,≪,U+0226A,Mathematical Symbols,less-than
+lt,<,U+0003C,Mathematical Symbols,less-than
+lt,<,U+0003C,Mathematical Symbols,less-than
+ltcc,⪦,U+02AA6,Mathematical Symbols,less-than-closed
+ltcir,⩹,U+02A79,Mathematical Symbols,less-than-circle
+ltdot,⋖,U+022D6,Mathematical Symbols,less-than-dot
+lthree,⋋,U+022CB,Mathematical Symbols,less-than-three
+ltimes,⋉,U+022C9,Mathematical Symbols,less-than-times
+ltlarr,⥶,U+02976,Arrows,less-than-arrow
+ltquest,⩻,U+02A7B,Mathematical Symbols,less-than-question
+ltri,◃,U+025C3,Geometric Shapes,left-triangle
+ltrie,⊴,U+022B4,Mathematical Symbols,left-triangle-equal
+ltrif,◂,U+025C2,Geometric Shapes,left-triangle
+ltrPar,⦖,U+02996,Technical Symbols,left-paren
+lurdshar,⥊,U+0294A,Arrows,left-arrow
+luruhar,⥦,U+02966,Arrows,left-arrow
+lvertneqq,≨︀,U+02268 U+0FE00,Mathematical Symbols,less-than-equal
+lvnE,≨︀,U+02268 U+0FE00,Mathematical Symbols,less-than-equal
+macr,¯,U+000AF,Punctuation,macron
+macr,¯,U+000AF,Punctuation,macron
+male,♂,U+02642,Miscellaneous Symbols,male
+malt,✠,U+02720,Miscellaneous Symbols,maltese
+maltese,✠,U+02720,Miscellaneous Symbols,maltese
+Map,⤅,U+02905,Arrows,map
+map,↦,U+021A6,Arrows,map
+mapsto,↦,U+021A6,Arrows,map
+mapstodown,↧,U+021A7,Arrows,map
+mapstoleft,↤,U+021A4,Arrows,map
+mapstoup,↥,U+021A5,Arrows,map
+marker,▮,U+025AE,Geometric Shapes,marker
+mcomma,⨩,U+02A29,Mathematical Symbols,comma
+Mcy,М,U+0041C,Latin Letters,Cyrillic-M
+mcy,м,U+0043C,Latin Letters,Cyrillic-m
+mdash,—,U+02014,Punctuation,em-dash
+mDDot,∺,U+0223A,Mathematical Symbols,three-dots
+measuredangle,∡,U+02221,Mathematical Symbols,measured-angle
+MediumSpace, ,U+0205F,Punctuation,medium-space
+Mellintrf,ℳ,U+02133,Latin Letters,Mellin-transform
+Mfr,𝔐,U+1D510,Latin Letters,M-fraktur
+mfr,𝔪,U+1D52A,Latin Letters,m-fraktur
+mho,℧,U+02127,Latin Letters,mho
+micro,µ,U+000B5,Latin Letters,micro
+micro,µ,U+000B5,Latin Letters,micro
+mid,∣,U+02223,Mathematical Symbols,mid
+midast,*,U+0002A,Mathematical Symbols,asterisk
+midcir,⫰,U+02AF0,Mathematical Symbols,mid-circle
+middot,·,U+000B7,Punctuation,middle-dot
+middot,·,U+000B7,Punctuation,middle-dot
+minus,−,U+02212,Mathematical Symbols,minus
+minusb,⊟,U+0229F,Mathematical Symbols,minus
+minusd,∸,U+02238,Mathematical Symbols,minus
+minusdu,⨪,U+02A2A,Mathematical Symbols,minus
+MinusPlus,∓,U+02213,Mathematical Symbols,minus-plus
+mlcp,⫛,U+02ADB,Mathematical Symbols,mlcp
+mldr,…,U+02026,Punctuation,ellipsis
+mnplus,∓,U+02213,Mathematical Symbols,minus-plus
+models,⊧,U+022A7,Mathematical Symbols,models
+Mopf,𝕄,U+1D544,Latin Letters,M-double-struck
+mopf,𝕞,U+1D55E,Latin Letters,m-double-struck
+mp,∓,U+02213,Mathematical Symbols,minus-plus
+Mscr,ℳ,U+02133,Latin Letters,M-script
+mscr,𝓂,U+1D4C2,Latin Letters,m-script
+mstpos,∾,U+0223E,Mathematical Symbols,mstpos
+Mu,Μ,U+0039C,Greek Letters,Mu
+mu,μ,U+003BC,Greek Letters,mu
+multimap,⊸,U+022B8,Mathematical Symbols,multimap
+mumap,⊸,U+022B8,Mathematical Symbols,multimap
+nabla,∇,U+02207,Mathematical Symbols,nabla
+Nacute,Ń,U+00143,Latin Letters,N-acute
+nacute,ń,U+00144,Latin Letters,n-acute
+nang,∠⃒,U+02220 U+020D2,Mathematical Symbols,angle
+nap,≉,U+02249,Mathematical Symbols,not-approx
+napE,⩰̸,U+02A70 U+00338,Mathematical Symbols,not-approx
+napid,≋̸,U+0224B U+00338,Mathematical Symbols,not-approx
+napos,ŉ,U+00149,Latin Letters,n-apostrophe
+napprox,≉,U+02249,Mathematical Symbols,not-approx
+natur,♮,U+0266E,Miscellaneous Symbols,natural
+natural,♮,U+0266E,Miscellaneous Symbols,natural
+naturals,ℕ,U+02115,Latin Letters,naturals
+nbsp,&nbsp;,U+000A0,Punctuation,non-breaking-space
+nbump,≎̸,U+0224E U+00338,Mathematical Symbols,not-bump
+nbumpe,≏̸,U+0224F U+00338,Mathematical Symbols,not-bump
+ncap,⩃,U+02A43,Mathematical Symbols,ncap
+Ncaron,Ň,U+00147,Latin Letters,N-caron
+ncaron,ň,U+00148,Latin Letters,n-caron
+Ncedil,Ņ,U+00145,Latin Letters,N-cedilla
+ncedil,ņ,U+00146,Latin Letters,n-cedilla
+ncong,≇,U+02247,Mathematical Symbols,not-congruent
+ncongdot,⩭̸,U+02A6D U+00338,Mathematical Symbols,not-congruent
+ncup,⩂,U+02A42,Mathematical Symbols,ncup
+Ncy,Н,U+0041D,Latin Letters,Cyrillic-N
+ncy,н,U+0043D,Latin Letters,Cyrillic-n
+ndash,–,U+02013,Punctuation,en-dash
+ne,≠,U+02260,Mathematical Symbols,not-equal
+nearhk,⤤,U+02924,Arrows,nearhk
+neArr,⇗,U+021D7,Arrows,ne-arrow
+nearr,↗,U+02197,Arrows,ne-arrow
+nearrow,↗,U+02197,Arrows,ne-arrow
+nedot,≐̸,U+02250 U+00338,Mathematical Symbols,not-equal
+NegativeMediumSpace,​,U+0200B,Punctuation,negative-medium-space
+NegativeThickSpace,​,U+0200B,Punctuation,negative-thick-space
+NegativeThinSpace,​,U+0200B,Punctuation,negative-thin-space
+NegativeVeryThinSpace,​,U+0200B,Punctuation,negative-very-thin-space
+nequiv,≢,U+02262,Mathematical Symbols,not-equivalent
+nesear,⤨,U+02928,Arrows,ne-arrow
+nesim,≂̸,U+02242 U+00338,Mathematical Symbols,not-similar
+NestedGreaterGreater,≫,U+0226B,Mathematical Symbols,nested-greater
+NestedLessLess,≪,U+0226A,Mathematical Symbols,nested-less
+NewLine,␊,U+0000A,Punctuation,new-line
+nexist,∄,U+02204,Mathematical Symbols,not-exist
+nexists,∄,U+02204,Mathematical Symbols,not-exist
+Nfr,𝔑,U+1D511,Latin Letters,N-fraktur
+nfr,𝔫,U+1D52B,Latin Letters,n-fraktur
+ngE,≧̸,U+02267 U+00338,Mathematical Symbols,not-greater-equal
+nge,≱,U+02271,Mathematical Symbols,not-greater-equal
+ngeq,≱,U+02271,Mathematical Symbols,not-greater-equal
+ngeqq,≧̸,U+02267 U+00338,Mathematical Symbols,not-greater-equal
+ngeqslant,⩾̸,U+02A7E U+00338,Mathematical Symbols,not-greater-equal
+nges,⩾̸,U+02A7E U+00338,Mathematical Symbols,not-greater-equal
+nGg,⋙̸,U+022D9 U+00338,Mathematical Symbols,not-greater
+ngsim,≵,U+02275,Mathematical Symbols,not-greater-similar
+nGt,≫⃒,U+0226B U+020D2,Mathematical Symbols,not-greater
+ngt,≯,U+0226F,Mathematical Symbols,not-greater
+ngtr,≯,U+0226F,Mathematical Symbols,not-greater
+nGtv,≫̸,U+0226B U+00338,Mathematical Symbols,not-greater
+nhArr,⇎,U+021CE,Arrows,not-left-right-arrow
+nharr,↮,U+021AE,Arrows,not-left-right-arrow
+nhpar,⫲,U+02AF2,Mathematical Symbols,nhpar
+ni,∋,U+0220B,Mathematical Symbols,contains
+nis,⋼,U+022FC,Mathematical Symbols,contains
+nisd,⋺,U+022FA,Mathematical Symbols,contains
+niv,∋,U+0220B,Mathematical Symbols,contains
+NJcy,Њ,U+0040A,Latin Letters,Cyrillic-NJ
+njcy,њ,U+0045A,Latin Letters,Cyrillic-nj
+nlArr,⇍,U+021CD,Arrows,not-left-arrow
+nlarr,↚,U+0219A,Arrows,not-left-arrow
+nldr,‥,U+02025,Punctuation,ellipsis
+nlE,≦̸,U+02266 U+00338,Mathematical Symbols,not-less-equal
+nle,≰,U+02270,Mathematical Symbols,not-less-equal
+nLeftarrow,⇍,U+021CD,Arrows,not-left-arrow
+nleftarrow,↚,U+0219A,Arrows,not-left-arrow
+nLeftrightarrow,⇎,U+021CE,Arrows,not-left-right-arrow
+nleftrightarrow,↮,U+021AE,Arrows,not-left-right-arrow
+nleq,≰,U+02270,Mathematical Symbols,not-less-equal
+nleqq,≦̸,U+02266 U+00338,Mathematical Symbols,not-less-equal
+nleqslant,⩽̸,U+02A7D U+00338,Mathematical Symbols,not-less-equal
+nles,⩽̸,U+02A7D U+00338,Mathematical Symbols,not-less-equal
+nless,≮,U+0226E,Mathematical Symbols,not-less
+nLl,⋘̸,U+022D8 U+00338,Mathematical Symbols,not-less
+nlsim,≴,U+02274,Mathematical Symbols,not-less-similar
+nLt,≪⃒,U+0226A U+020D2,Mathematical Symbols,not-less
+nlt,≮,U+0226E,Mathematical Symbols,not-less
+nltri,⋪,U+022EA,Mathematical Symbols,not-left-triangle
+nltrie,⋬,U+022EC,Mathematical Symbols,not-left-triangle-equal
+nLtv,≪̸,U+0226A U+00338,Mathematical Symbols,not-less
+nmid,∤,U+02224,Mathematical Symbols,not-mid
+NoBreak,⁠,U+02060,Punctuation,no-break
+NonBreakingSpace,&nbsp;,U+000A0,Punctuation,non-breaking-space
+Nopf,ℕ,U+02115,Latin Letters,N-double-struck
+nopf,𝕟,U+1D55F,Latin Letters,n-double-struck
+Not,⫬,U+02AEC,Mathematical Symbols,not
+not,¬,U+000AC,Mathematical Symbols,not
+not,¬,U+000AC,Mathematical Symbols,not
+NotCongruent,≢,U+02262,Mathematical Symbols,not-congruent
+NotCupCap,≭,U+0226D,Mathematical Symbols,not-cup-cap
+NotDoubleVerticalBar,∦,U+02226,Mathematical Symbols,not-double-vertical-bar
+NotElement,∉,U+02209,Mathematical Symbols,not-element
+NotEqual,≠,U+02260,Mathematical Symbols,not-equal
+NotEqualTilde,≂̸,U+02242 U+00338,Mathematical Symbols,not-equal-tilde
+NotExists,∄,U+02204,Mathematical Symbols,not-exists
+NotGreater,≯,U+0226F,Mathematical Symbols,not-greater
+NotGreaterEqual,≱,U+02271,Mathematical Symbols,not-greater-equal
+NotGreaterFullEqual,≧̸,U+02267 U+00338,Mathematical Symbols,not-greater-equal
+NotGreaterGreater,≫̸,U+0226B U+00338,Mathematical Symbols,not-greater
+NotGreaterLess,≹,U+02279,Mathematical Symbols,not-greater-less
+NotGreaterSlantEqual,⩾̸,U+02A7E U+00338,Mathematical Symbols,not-greater-equal
+NotGreaterTilde,≵,U+02275,Mathematical Symbols,not-greater-tilde
+NotHumpDownHump,≎̸,U+0224E U+00338,Mathematical Symbols,not-hump-down-hump
+NotHumpEqual,≏̸,U+0224F U+00338,Mathematical Symbols,not-hump-equal
+notin,∉,U+02209,Mathematical Symbols,not-in
+notindot,⋵̸,U+022F5 U+00338,Mathematical Symbols,not-in-dot
+notinE,⋹̸,U+022F9 U+00338,Mathematical Symbols,not-in-e
+notinva,∉,U+02209,Mathematical Symbols,not-in
+notinvb,⋷,U+022F7,Mathematical Symbols,not-in
+notinvc,⋶,U+022F6,Mathematical Symbols,not-in
+NotLeftTriangle,⋪,U+022EA,Mathematical Symbols,not-left-triangle
+NotLeftTriangleBar,⧏̸,U+029CF U+00338,Mathematical Symbols,not-left-triangle-bar
+NotLeftTriangleEqual,⋬,U+022EC,Mathematical Symbols,not-left-triangle-equal
+NotLess,≮,U+0226E,Mathematical Symbols,not-less
+NotLessEqual,≰,U+02270,Mathematical Symbols,not-less-equal
+NotLessGreater,≸,U+02278,Mathematical Symbols,not-less-greater
+NotLessLess,≪̸,U+0226A U+00338,Mathematical Symbols,not-less
+NotLessSlantEqual,⩽̸,U+02A7D U+00338,Mathematical Symbols,not-less-equal
+NotLessTilde,≴,U+02274,Mathematical Symbols,not-less-tilde
+NotNestedGreaterGreater,⪢̸,U+02AA2 U+00338,Mathematical Symbols,not-nested-greater
+NotNestedLessLess,⪡̸,U+02AA1 U+00338,Mathematical Symbols,not-nested-less
+notni,∌,U+0220C,Mathematical Symbols,not-contains
+notniva,∌,U+0220C,Mathematical Symbols,not-contains
+notnivb,⋾,U+022FE,Mathematical Symbols,not-contains
+notnivc,⋽,U+022FD,Mathematical Symbols,not-contains
+NotPrecedes,⊀,U+02280,Mathematical Symbols,not-precedes
+NotPrecedesEqual,⪯̸,U+02AAF U+00338,Mathematical Symbols,not-precedes-equal
+NotPrecedesSlantEqual,⋠,U+022E0,Mathematical Symbols,not-precedes
+NotReverseElement,∌,U+0220C,Mathematical Symbols,not-contains
+NotRightTriangle,⋫,U+022EB,Mathematical Symbols,not-right-triangle
+NotRightTriangleBar,⧐̸,U+029D0 U+00338,Mathematical Symbols,not-right-triangle-bar
+NotRightTriangleEqual,⋭,U+022ED,Mathematical Symbols,not-right-triangle-equal
+NotSquareSubset,⊏̸,U+0228F U+00338,Mathematical Symbols,not-square-subset
+NotSquareSubsetEqual,⋢,U+022E2,Mathematical Symbols,not-square-subset-equal
+NotSquareSuperset,⊐̸,U+02290 U+00338,Mathematical Symbols,not-square-superset
+NotSquareSupersetEqual,⋣,U+022E3,Mathematical Symbols,not-square-superset-equal
+NotSubset,⊂⃒,U+02282 U+020D2,Mathematical Symbols,not-subset
+NotSubsetEqual,⊈,U+02288,Mathematical Symbols,not-subset-equal
+NotSucceeds,⊁,U+02281,Mathematical Symbols,not-succeeds
+NotSucceedsEqual,⪰̸,U+02AB0 U+00338,Mathematical Symbols,not-succeeds-equal
+NotSucceedsSlantEqual,⋡,U+022E1,Mathematical Symbols,not-succeeds
+NotSucceedsTilde,≿̸,U+0227F U+00338,Mathematical Symbols,not-succeeds-tilde
+NotSuperset,⊃⃒,U+02283 U+020D2,Mathematical Symbols,not-superset
+NotSupersetEqual,⊉,U+02289,Mathematical Symbols,not-superset-equal
+NotTilde,≁,U+02241,Mathematical Symbols,not-tilde
+NotTildeEqual,≄,U+02244,Mathematical Symbols,not-tilde-equal
+NotTildeFullEqual,≇,U+02247,Mathematical Symbols,not-tilde-equal
+NotTildeTilde,≉,U+02249,Mathematical Symbols,not-tilde
+NotVerticalBar,∤,U+02224,Mathematical Symbols,not-vertical-bar
+npar,∦,U+02226,Mathematical Symbols,not-parallel
+nparallel,∦,U+02226,Mathematical Symbols,not-parallel
+nparsl,⫽⃥,U+02AFD U+020E5,Mathematical Symbols,not-parallel
+npart,∂̸,U+02202 U+00338,Mathematical Symbols,not-part
+npolint,⨔,U+02A14,Mathematical Symbols,npolint
+npr,⊀,U+02280,Mathematical Symbols,not-precedes
+nprcue,⋠,U+022E0,Mathematical Symbols,not-precedes
+npre,⪯̸,U+02AAF U+00338,Mathematical Symbols,not-precedes-equal
+nprec,⊀,U+02280,Mathematical Symbols,not-precedes
+npreceq,⪯̸,U+02AAF U+00338,Mathematical Symbols,not-precedes-equal
+nrArr,⇏,U+021CF,Arrows,not-right-arrow
+nrarr,↛,U+0219B,Arrows,not-right-arrow
+nrarrc,⤳̸,U+02933 U+00338,Arrows,not-right-arrow
+nrarrw,↝̸,U+0219D U+00338,Arrows,not-right-arrow
+nRightarrow,⇏,U+021CF,Arrows,not-right-arrow
+nrightarrow,↛,U+0219B,Arrows,not-right-arrow
+nrtri,⋫,U+022EB,Mathematical Symbols,not-right-triangle
+nrtrie,⋭,U+022ED,Mathematical Symbols,not-right-triangle-equal
+nsc,⊁,U+02281,Mathematical Symbols,not-succeeds
+nsccue,⋡,U+022E1,Mathematical Symbols,not-succeeds
+nsce,⪰̸,U+02AB0 U+00338,Mathematical Symbols,not-succeeds-equal
+Nscr,𝒩,U+1D4A9,Latin Letters,N-script
+nscr,𝓃,U+1D4C3,Latin Letters,n-script
+nshortmid,∤,U+02224,Mathematical Symbols,not-mid
+nshortparallel,∦,U+02226,Mathematical Symbols,not-parallel
+nsim,≁,U+02241,Mathematical Symbols,not-similar
+nsime,≄,U+02244,Mathematical Symbols,not-similar-equal
+nsimeq,≄,U+02244,Mathematical Symbols,not-similar-equal
+nsmid,∤,U+02224,Mathematical Symbols,not-mid
+nspar,∦,U+02226,Mathematical Symbols,not-parallel
+nsqsube,⋢,U+022E2,Mathematical Symbols,not-square-subset-equal
+nsqsupe,⋣,U+022E3,Mathematical Symbols,not-square-superset-equal
+nsub,⊄,U+02284,Mathematical Symbols,not-subset
+nsubE,⫅̸,U+02AC5 U+00338,Mathematical Symbols,not-subset-equal
+nsube,⊈,U+02288,Mathematical Symbols,not-subset-equal
+nsubset,⊂⃒,U+02282 U+020D2,Mathematical Symbols,not-subset
+nsubseteq,⊈,U+02288,Mathematical Symbols,not-subset-equal
+nsubseteqq,⫅̸,U+02AC5 U+00338,Mathematical Symbols,not-subset-equal
+nsucc,⊁,U+02281,Mathematical Symbols,not-succeeds
+nsucceq,⪰̸,U+02AB0 U+00338,Mathematical Symbols,not-succeeds-equal
+nsup,⊅,U+02285,Mathematical Symbols,not-superset
+nsupE,⫆̸,U+02AC6 U+00338,Mathematical Symbols,not-superset-equal
+nsupe,⊉,U+02289,Mathematical Symbols,not-superset-equal
+nsupset,⊃⃒,U+02283 U+020D2,Mathematical Symbols,not-superset
+nsupseteq,⊉,U+02289,Mathematical Symbols,not-superset-equal
+nsupseteqq,⫆̸,U+02AC6 U+00338,Mathematical Symbols,not-superset-equal
+ntgl,≹,U+02279,Mathematical Symbols,not-greater-less
+Ntilde,Ñ,U+000D1,Latin Letters,N-tilde
+Ntilde,Ñ,U+000D1,Latin Letters,N-tilde
+ntilde,ñ,U+000F1,Latin Letters,n-tilde
+ntilde,ñ,U+000F1,Latin Letters,n-tilde
+ntlg,≸,U+02278,Mathematical Symbols,not-less-greater
+ntriangleleft,⋪,U+022EA,Mathematical Symbols,not-left-triangle
+ntrianglelefteq,⋬,U+022EC,Mathematical Symbols,not-left-triangle-equal
+ntriangleright,⋫,U+022EB,Mathematical Symbols,not-right-triangle
+ntrianglerighteq,⋭,U+022ED,Mathematical Symbols,not-right-triangle-equal
+Nu,Ν,U+0039D,Greek Letters,Nu
+nu,ν,U+003BD,Greek Letters,nu
+num,#,U+00023,Punctuation,number
+numero,№,U+02116,Latin Letters,numero
+numsp, ,U+02007,Punctuation,number-space
+nvap,≍⃒,U+0224D U+020D2,Mathematical Symbols,not-approx
+nVDash,⊯,U+022AF,Mathematical Symbols,not-dash
+nVdash,⊮,U+022AE,Mathematical Symbols,not-dash
+nvDash,⊭,U+022AD,Mathematical Symbols,not-dash
+nvdash,⊬,U+022AC,Mathematical Symbols,not-dash
+nvge,≥⃒,U+02265 U+020D2,Mathematical Symbols,not-greater-equal
+nvgt,>⃒,U+0003E U+020D2,Mathematical Symbols,not-greater
+nvHarr,⤄,U+02904,Arrows,not-left-right-arrow
+nvinfin,⧞,U+029DE,Technical Symbols,not-infinite
+nvlArr,⤂,U+02902,Arrows,not-left-arrow
+nvle,≤⃒,U+02264 U+020D2,Mathematical Symbols,not-less-equal
+nvlt,<⃒,U+0003C U+020D2,Mathematical Symbols,not-less
+nvltrie,⊴⃒,U+022B4 U+020D2,Mathematical Symbols,not-left-triangle-equal
+nvrArr,⤃,U+02903,Arrows,not-right-arrow
+nvrtrie,⊵⃒,U+022B5 U+020D2,Mathematical Symbols,not-right-triangle-equal
+nvsim,∼⃒,U+0223C U+020D2,Mathematical Symbols,not-similar
+nwarhk,⤣,U+02923,Arrows,nw-arrow
+nwArr,⇖,U+021D6,Arrows,nw-arrow
+nwarr,↖,U+02196,Arrows,nw-arrow
+nwarrow,↖,U+02196,Arrows,nw-arrow
+nwnear,⤧,U+02927,Arrows,nw-arrow
+Ó,Oacute,U+000D3,Latin Letters,O-acute
+Ó,Oacute,U+000D3,Latin Letters,O-acute
+ó,oacute,U+000F3,Latin Letters,o-acute
+ó,oacute,U+000F3,Latin Letters,o-acute
+oast,⊛,U+0229B,Mathematical Symbols,o-asterisk
+ocir,⊚,U+0229A,Mathematical Symbols,o-circle
+Ocirc,Ô,U+000D4,Latin Letters,O-circumflex
+Ocirc,Ô,U+000D4,Latin Letters,Latin capital letter O with circumflex
+ocirc,ô,U+000F4,Latin Letters,Latin small letter o with circumflex
+Ocy,О,U+0041E,Latin Letters,Cyrillic capital letter O
+ocy,о,U+0043E,Latin Letters,Cyrillic small letter o
+odash,⊝,U+0229D,Mathematical Symbols,Circled dash
+Odblac,Ő,U+00150,Latin Letters,Latin capital letter O with double acute
+odblac,ő,U+00151,Latin Letters,Latin small letter o with double acute
+odiv,⨸,U+02A38,Mathematical Symbols,Circled division slash
+odot,⊙,U+02299,Mathematical Symbols,Circled dot operator
+odsold,⦼,U+029BC,Technical Symbols,Circled ring operator
+OElig,Œ,U+00152,Latin Letters,Latin capital ligature OE
+oelig,œ,U+00153,Latin Letters,Latin small ligature oe
+ofcir,⦿,U+029BF,Technical Symbols,Circled bullet
+Ofr,𝔒,U+1D512,Latin Letters,Mathematical Fraktur capital O
+ofr,𝔬,U+1D52C,Latin Letters,Mathematical Fraktur small o
+ogon,˛,U+002DB,Punctuation,Ogonek
+Ograve,Ò,U+000D2,Latin Letters,Latin capital letter O with grave
+ograve,ò,U+000F2,Latin Letters,Latin small letter o with grave
+ogt,⧁,U+029C1,Technical Symbols,Double-line greater-than sign
+ohbar,⦵,U+029B5,Technical Symbols,Circle with horizontal bar
+ohm,Ω,U+003A9,Greek Letters,Greek capital letter omega
+oint,∮,U+0222E,Mathematical Symbols,Contour integral
+olarr,↺,U+021BA,Arrows,Anticlockwise open circle arrow
+olcir,⦾,U+029BE,Technical Symbols,Circle with vertical bar
+olcross,⦻,U+029BB,Technical Symbols,Circle with superimposed X
+oline,‾,U+0203E,Punctuation,Overline
+olt,⧀,U+029C0,Technical Symbols,Double-line less-than sign
+Omacr,Ō,U+0014C,Latin Letters,Latin capital letter O with macron
+omacr,ō,U+0014D,Latin Letters,Latin small letter o with macron
+Omega,Ω,U+003A9,Greek Letters,Greek capital letter omega
+omega,ω,U+003C9,Greek Letters,Greek small letter omega
+Omicron,Ο,U+0039F,Greek Letters,Greek capital letter omicron
+omicron,ο,U+003BF,Greek Letters,Greek small letter omicron
+omid,⦶,U+029B6,Technical Symbols,Circle with middle dot
+ominus,⊖,U+02296,Mathematical Symbols,Circled minus
+Oopf,𝕆,U+1D546,Latin Letters,Mathematical double-struck capital O
+oopf,𝕠,U+1D560,Latin Letters,Mathematical double-struck small o
+opar,⦷,U+029B7,Technical Symbols,Circle with vertical bar
+OpenCurlyDoubleQuote,“,U+0201C,Punctuation,Left double quotation mark
+OpenCurlyQuote,‘,U+02018,Punctuation,Left single quotation mark
+operp,⦹,U+029B9,Technical Symbols,Circle with perpendicular
+oplus,⊕,U+02295,Mathematical Symbols,Circled plus
+Or,⩔,U+02A54,Mathematical Symbols,Double logical or
+or,∨,U+02228,Mathematical Symbols,Logical or
+orarr,↻,U+021BB,Arrows,Clockwise open circle arrow
+ord,⩝,U+02A5D,Mathematical Symbols,Logical or with middle stem
+order,ℴ,U+02134,Latin Letters,Script small o
+orderof,ℴ,U+02134,Latin Letters,Script small o
+ordf,ª,U+000AA,Latin Letters,Feminine ordinal indicator
+ordm,º,U+000BA,Latin Letters,Masculine ordinal indicator
+origof,⊶,U+022B6,Mathematical Symbols,Original of
+oror,⩖,U+02A56,Mathematical Symbols,Two logical ors
+orslope,⩗,U+02A57,Mathematical Symbols,Logical or with horizontal dash
+orv,⩛,U+02A5B,Mathematical Symbols,Logical or with vertical bar
+oS,Ⓢ,U+024C8,Technical Symbols,Circled Latin capital letter S
+Oscr,𝒪,U+1D4AA,Latin Letters,Mathematical script capital O
+oscr,ℴ,U+02134,Latin Letters,Script small o
+Oslash,Ø,U+000D8,Latin Letters,Latin capital letter O with stroke
+oslash,ø,U+000F8,Latin Letters,Latin small letter o with stroke
+osol,⊘,U+02298,Mathematical Symbols,Circled division slash
+Otilde,Õ,U+000D5,Latin Letters,Latin capital letter O with tilde
+otilde,õ,U+000F5,Latin Letters,Latin small letter o with tilde
+Otimes,⨷,U+02A37,Mathematical Symbols,Circled times
+otimes,⊗,U+02297,Mathematical Symbols,Circled times
+otimesas,⨶,U+02A36,Mathematical Symbols,Circled times with small circle
+Ouml,Ö,U+000D6,Latin Letters,Latin capital letter O with diaeresis
+ouml,ö,U+000F6,Latin Letters,Latin small letter o with diaeresis
+ovbar,⌽,U+0233D,Technical Symbols,Vertical bar with horizontal stroke
+OverBar,‾,U+0203E,Punctuation,Overline
+OverBrace,⏞,U+023DE,Technical Symbols,Top curly bracket
+OverBracket,⎴,U+023B4,Technical Symbols,Top square bracket
+OverParenthesis,⏜,U+023DC,Technical Symbols,Top parenthesis
+par,∥,U+02225,Mathematical Symbols,Parallel to
+para,¶,U+000B6,Punctuation,Pilcrow sign
+parallel,∥,U+02225,Mathematical Symbols,Parallel to
+parsim,⫳,U+02AF3,Mathematical Symbols,Double solidus operator
+parsl,⫽,U+02AFD,Mathematical Symbols,Parallel with slash
+part,∂,U+02202,Mathematical Symbols,Partial differential
+PartialD,∂,U+02202,Mathematical Symbols,Partial differential
+Pcy,П,U+0041F,Latin Letters,Cyrillic capital letter Pe
+pcy,п,U+0043F,Latin Letters,Cyrillic small letter pe
+percnt,%,U+00025,Punctuation,Percent sign
+period,.,U+0002E,Punctuation,Full stop
+permil,‰,U+02030,Punctuation,Per mille sign
+perp,⊥,U+022A5,Mathematical Symbols,Up tack
+pertenk,‱,U+02031,Punctuation,Per ten thousand sign
+Pfr,𝔓,U+1D513,Latin Letters,Mathematical Fraktur capital P
+pfr,𝔭,U+1D52D,Latin Letters,Mathematical Fraktur small p
+Phi,Φ,U+003A6,Greek Letters,Greek capital letter phi
+phi,φ,U+003C6,Greek Letters,Greek small letter phi
+phiv,ϕ,U+003D5,Greek Letters,Greek phi symbol
+phmmat,ℳ,U+02133,Latin Letters,Script capital M
+phone,☎,U+0260E,Miscellaneous Symbols,Black telephone
+Pi,Π,U+003A0,Greek Letters,Greek capital letter pi
+pi,π,U+003C0,Greek Letters,Greek small letter pi
+pitchfork,⋔,U+022D4,Mathematical Symbols,Pitchfork
+piv,ϖ,U+003D6,Greek Letters,Greek pi symbol
+planck,ℏ,U+0210F,Latin Letters,Planck constant over two pi
+planckh,ℎ,U+0210E,Latin Letters,Planck constant
+plankv,ℏ,U+0210F,Latin Letters,Planck constant over two pi
+plus,+,U+0002B,Mathematical Symbols,Plus sign
+plusacir,⨣,U+02A23,Mathematical Symbols,Plus sign with small circle
+plusb,⊞,U+0229E,Mathematical Symbols,Squared plus
+pluscir,⨢,U+02A22,Mathematical Symbols,Plus sign with circle
+plusdo,∔,U+02214,Mathematical Symbols,Dot plus
+plusdu,⨥,U+02A25,Mathematical Symbols,Plus sign with dot below
+pluse,⩲,U+02A72,Mathematical Symbols,Equals sign with plus below
+PlusMinus,±,U+000B1,Mathematical Symbols,Plus-minus sign
+plusmn,±,U+000B1,Mathematical Symbols,Plus-minus sign
+plussim,⨦,U+02A26,Mathematical Symbols,Plus sign with tilde
+plustwo,⨧,U+02A27,Mathematical Symbols,Plus sign with two dots below
+pm,±,U+000B1,Mathematical Symbols,Plus-minus sign
+Poincareplane,ℌ,U+0210C,Latin Letters,Black-letter capital H
+pointint,⨕,U+02A15,Mathematical Symbols,Integral around a point
+Popf,ℙ,U+02119,Latin Letters,Double-struck capital P
+popf,𝕡,U+1D561,Latin Letters,Mathematical double-struck small p
+pound,£,U+000A3,Punctuation,Pound sign
+Pr,⪻,U+02ABB,Mathematical Symbols,Double-line slanted less-than or equal to
+pr,≺,U+0227A,Mathematical Symbols,Precedes
+prap,⪷,U+02AB7,Mathematical Symbols,Precedes above almost equal to
+prcue,≼,U+0227C,Mathematical Symbols,Precedes or equal to
+prE,⪳,U+02AB3,Mathematical Symbols,Precedes or equal to
+pre,⪯,U+02AAF,Mathematical Symbols,Precedes or equal to
+prec,≺,U+0227A,Mathematical Symbols,Precedes
+precapprox,⪷,U+02AB7,Mathematical Symbols,Precedes above almost equal to
+preccurlyeq,≼,U+0227C,Mathematical Symbols,Precedes or equal to
+Precedes,≺,U+0227A,Mathematical Symbols,Precedes
+PrecedesEqual,⪯,U+02AAF,Mathematical Symbols,Precedes or equal to
+PrecedesSlantEqual,≼,U+0227C,Mathematical Symbols,Precedes or equal to
+PrecedesTilde,≾,U+0227E,Mathematical Symbols,Precedes or equivalent to
+preceq,⪯,U+02AAF,Mathematical Symbols,Precedes or equal to
+precnapprox,⪹,U+02AB9,Mathematical Symbols,Precedes above not equal to
+precneqq,⪵,U+02AB5,Mathematical Symbols,Precedes above not equal to
+precnsim,⋨,U+022E8,Mathematical Symbols,Precedes but not equivalent to
+precsim,≾,U+0227E,Mathematical Symbols,Precedes or equivalent to
+Prime,″,U+02033,Punctuation,Double prime
+prime,′,U+02032,Punctuation,Prime
+primes,ℙ,U+02119,Latin Letters,Double-struck capital P
+prnap,⪹,U+02AB9,Mathematical Symbols,Precedes above not equal to
+prnE,⪵,U+02AB5,Mathematical Symbols,Precedes above not equal to
+prnsim,⋨,U+022E8,Mathematical Symbols,Precedes but not equivalent to
+prod,∏,U+0220F,Mathematical Symbols,N-ary product
+Product,∏,U+0220F,Mathematical Symbols,N-ary product
+profalar,⌮,U+0232E,Technical Symbols,Profile of a line
+profline,⌒,U+02312,Technical Symbols,Arc
+profsurf,⌓,U+02313,Technical Symbols,Surface integral
+prop,∝,U+0221D,Mathematical Symbols,Proportional to
+Proportion,∷,U+02237,Mathematical Symbols,Proportion
+Proportional,∝,U+0221D,Mathematical Symbols,Proportional to
+propto,∝,U+0221D,Mathematical Symbols,Proportional to
+prsim,≾,U+0227E,Mathematical Symbols,Precedes or equivalent to
+prurel,⊰,U+022B0,Mathematical Symbols,Precedes under relation
+Pscr,𝒫,U+1D4AB,Latin Letters,Mathematical script capital P
+pscr,𝓅,U+1D4C5,Latin Letters,Mathematical script small p
+Psi,Ψ,U+003A8,Greek Letters,Greek capital letter psi
+psi,ψ,U+003C8,Greek Letters,Greek small letter psi
+puncsp, ,U+02008,Punctuation,Punctuation space
+Qfr,𝔔,U+1D514,Latin Letters,Mathematical Fraktur capital Q
+qfr,𝔮,U+1D52E,Latin Letters,Mathematical Fraktur small q
+qint,⨌,U+02A0C,Mathematical Symbols,Quadruple integral
+Qopf,ℚ,U+0211A,Latin Letters,Double-struck capital Q
+qopf,𝕢,U+1D562,Latin Letters,Mathematical double-struck small q
+qprime,⁗,U+02057,Punctuation,Quadruple prime
+Qscr,𝒬,U+1D4AC,Latin Letters,Mathematical script capital Q
+qscr,𝓆,U+1D4C6,Latin Letters,Mathematical script small q
+quaternions,ℍ,U+0210D,Latin Letters,Double-struck capital H
+quatint,⨖,U+02A16,Mathematical Symbols,Quaternion integral
+quest,?,U+0003F,Punctuation,Question mark
+questeq,≟,U+0225F,Mathematical Symbols,Questioned equal to
+rAarr,⇛,U+021DB,Arrows,Rightwards triple arrow
+race,∽̱,U+0223D U+00331,Mathematical Symbols,Reversed tilde with underline
+Racute,Ŕ,U+00154,Latin Letters,Latin capital letter R with acute
+racute,ŕ,U+00155,Latin Letters,Latin small letter r with acute
+radic,√,U+0221A,Mathematical Symbols,Square root
+raemptyv,⦳,U+029B3,Technical Symbols,Right angle with downwards zigzag arrow
+Rang,⟫,U+027EB,Technical Symbols,Right double angle bracket
+rang,⟩,U+027E9,Technical Symbols,Right angle bracket
+rangd,⦒,U+02992,Technical Symbols,Right angle bracket with dot
+range,⦥,U+029A5,Technical Symbols,Measured angle
+rangle,⟩,U+027E9,Technical Symbols,Right angle bracket
+raquo,»,U+000BB,Punctuation,Right-pointing double angle quotation mark
+Rarr,↠,U+021A0,Arrows,Rightwards two-headed arrow
+rArr,⇒,U+021D2,Arrows,Rightwards double arrow
+rarr,→,U+02192,Arrows,Rightwards arrow
+rarrap,⥵,U+02975,Arrows,Rightwards arrow above almost equal to
+rarrb,⇥,U+021E5,Arrows,Rightwards arrow to bar
+rarrbfs,⤠,U+02920,Arrows,Rightwards arrow from bar to black diamond
+rarrc,⤳,U+02933,Arrows,Rightwards arrow with circled plus
+rarrfs,⤞,U+0291E,Arrows,Rightwards arrow from bar to black diamond
+rarrhk,↪,U+021AA,Arrows,Rightwards arrow with hook
+rarrlp,↬,U+021AC,Arrows,Rightwards arrow with loop
+rarrpl,⥅,U+02945,Arrows,Rightwards arrow through small circle
+rarrsim,⥴,U+02974,Arrows,Rightwards arrow above tilde operator
+Rarrtl,⤖,U+02916,Arrows,Rightwards two-headed arrow with tail
+rarrtl,↣,U+021A3,Arrows,Rightwards arrow with tail
+rarrw,↝,U+0219D,Arrows,Rightwards wave arrow
+ratail,⤚,U+0291A,Arrows,Rightwards arrow-tail
+ratio,∶,U+02236,Mathematical Symbols,Ratio
+rationals,ℚ,U+0211A,Latin Letters,Rationals
+RBarr,⤐,U+02910,Arrows,Rightwards double arrow
+rBarr,⤏,U+0290F,Arrows,Rightwards triple arrow
+rbarr,⤍,U+0290D,Arrows,Rightwards double arrow
+rbbrk,❳,U+02773,Technical Symbols,Right bracket
+rbrace,},U+0007D,Punctuation,Right brace
+rbrack,],U+0005D,Punctuation,Right bracket
+rbrke,⦌,U+0298C,Technical Symbols,Right square bracket
+rbrksld,⦎,U+0298E,Technical Symbols,Right square bracket
+rbrkslu,⦐,U+02990,Technical Symbols,Right square bracket
+Rcaron,Ř,U+00158,Latin Letters,Latin capital letter R with caron
+rcaron,ř,U+00159,Latin Letters,Latin small letter r with caron
+Rcedil,Ŗ,U+00156,Latin Letters,Latin capital letter R with cedilla
+rcedil,ŗ,U+00157,Latin Letters,Latin small letter r with cedilla
+rceil,⌉,U+02309,Technical Symbols,Right ceiling
+rcub,},U+0007D,Punctuation,Right brace
+Rcy,Р,U+00420,Latin Letters,Cyrillic capital letter Er
+rcy,р,U+00440,Latin Letters,Cyrillic small letter er
+rdca,⤷,U+02937,Arrows,Rightwards arrow with corner down
+rdldhar,⥩,U+02969,Arrows,Rightwards arrow with downwards harpoon
+rdquo,”,U+0201D,Punctuation,Right double quotation mark
+rdquor,”,U+0201D,Punctuation,Right double quotation mark
+rdsh,↳,U+021B3,Arrows,Rightwards arrow with corner down
+Re,ℜ,U+0211C,Latin Letters,Real part
+real,ℜ,U+0211C,Latin Letters,Real part
+realine,ℛ,U+0211B,Latin Letters,Real line
+realpart,ℜ,U+0211C,Latin Letters,Real part
+reals,ℝ,U+0211D,Latin Letters,Reals
+rect,▭,U+025AD,Geometric Shapes,Rectangle
+REG,®,U+000AE,Punctuation,Registered sign
+reg,®,U+000AE,Punctuation,Registered sign
+ReverseElement,∋,U+0220B,Mathematical Symbols,Reverse element
+ReverseEquilibrium,⇋,U+021CB,Arrows,Reverse equilibrium
+ReverseUpEquilibrium,⥯,U+029AF,Arrows,Reverse up equilibrium
+rfisht,⥽,U+0297D,Arrows,Rightwards fishhook arrow
+rfloor,⌋,U+0230B,Technical Symbols,Right floor
+Rfr,ℜ,U+0211C,Latin Letters,Fraktur capital R
+rfr,𝔯,U+1D52F,Latin Letters,Fraktur small r
+rHar,⥤,U+02964,Arrows,Rightwards harpoon
+rhard,⇁,U+021C1,Arrows,Rightwards harpoon down
+rharu,⇀,U+021C0,Arrows,Rightwards harpoon up
+rharul,⥬,U+0296C,Arrows,Rightwards harpoon with bar
+Rho,Ρ,U+003A1,Greek Letters,Greek capital letter rho
+rho,ρ,U+003C1,Greek Letters,Greek small letter rho
+rhov,ϱ,U+003F1,Greek Letters,Greek rho symbol
+RightAngleBracket,⟩,U+027E9,Technical Symbols,Right angle bracket
+RightArrow,→,U+02192,Arrows,Rightwards arrow
+Rightarrow,⇒,U+021D2,Arrows,Rightwards double arrow
+rightarrow,→,U+02192,Arrows,Rightwards arrow
+RightArrowBar,⇥,U+021E5,Arrows,Rightwards arrow to bar
+RightArrowLeftArrow,⇄,U+021C4,Arrows,Rightwards arrow over leftwards arrow
+rightarrowtail,↣,U+021A3,Arrows,Rightwards arrow with tail
+RightCeiling,⌉,U+02309,Technical Symbols,Right ceiling
+RightDoubleBracket,⟧,U+027E7,Technical Symbols,Right double bracket
+RightDownTeeVector,⥝,U+0295D,Arrows,Rightwards tee with downwards harpoon
+RightDownVector,⇂,U+021C2,Arrows,Rightwards arrow with downwards harpoon
+RightDownVectorBar,⥕,U+02955,Arrows,Rightwards arrow with bar and downwards harpoon
+RightFloor,⌋,U+0230B,Technical Symbols,Right floor
+rightharpoondown,⇁,U+021C1,Arrows,Rightwards harpoon down
+rightharpoonup,⇀,U+021C0,Arrows,Rightwards harpoon up
+rightleftarrows,⇄,U+021C4,Arrows,Rightwards arrow over leftwards arrow
+rightleftharpoons,⇌,U+021CC,Arrows,Rightwards harpoon over leftwards harpoon
+rightrightarrows,⇉,U+021C9,Arrows,Rightwards double arrow
+rightsquigarrow,↝,U+0219D,Arrows,Rightwards squiggle arrow
+RightTee,⊢,U+022A2,Mathematical Symbols,Right tee
+RightTeeArrow,↦,U+021A6,Arrows,Rightwards arrow from bar
+RightTeeVector,⥛,U+0295B,Arrows,Rightwards tee with harpoon
+rightthreetimes,⋌,U+022CC,Mathematical Symbols,Rightwards three times
+RightTriangle,⊳,U+022B3,Mathematical Symbols,Right triangle
+RightTriangleBar,⧐,U+029D0,Mathematical Symbols,Right triangle with bar
+RightTriangleEqual,⊵,U+022B5,Mathematical Symbols,Right triangle equal
+RightUpDownVector,⥏,U+0294F,Arrows,Rightwards arrow with up and down harpoons
+RightUpTeeVector,⥜,U+0295C,Arrows,Rightwards tee with upwards harpoon
+RightUpVector,↾,U+021BE,Arrows,Rightwards arrow with upwards harpoon
+RightUpVectorBar,⥔,U+02954,Arrows,Rightwards arrow with bar and upwards harpoon
+RightVector,⇀,U+021C0,Arrows,Rightwards arrow
+RightVectorBar,⥓,U+02953,Arrows,Rightwards arrow with bar
+ring,˚,U+002DA,Punctuation,Ring
+risingdotseq,≓,U+02253,Mathematical Symbols,Rising dot equal
+rlarr,⇄,U+021C4,Arrows,Rightwards arrow over leftwards arrow
+rlhar,⇌,U+021CC,Arrows,Rightwards harpoon over leftwards harpoon
+rmoust,⎱,U+023B1,Technical Symbols,Right moustache
+rmoustache,⎱,U+023B1,Technical Symbols,Right moustache
+rnmid,⫮,U+02AEE,Mathematical Symbols,Rightwards not mid
+roang,⟭,U+027ED,Technical Symbols,Right angle
+roarr,⇾,U+021FE,Arrows,Rightwards arrow with loop
+robrk,⟧,U+027E7,Technical Symbols,Right bracket
+ropar,⦆,U+02986,Technical Symbols,Right parenthesis
+Ropf,ℝ,U+0211D,Latin Letters,Double-struck capital R
+ropf,𝕣,U+1D563,Latin Letters,Double-struck small r
+roplus,⨮,U+02A2E,Mathematical Symbols,Rightwards plus
+rotimes,⨵,U+02A35,Mathematical Symbols,Rightwards times
+RoundImplies,⥰,U+02970,Arrows,Rightwards implies
+rpar,),U+00029,Punctuation,Right parenthesis
+rpargt,⦔,U+02994,Technical Symbols,Right parenthesis with greater-than
+rppolint,⨒,U+02A12,Mathematical Symbols,Rightwards integral
+rrarr,⇉,U+021C9,Arrows,Rightwards double arrow
+Rrightarrow,⇛,U+021DB,Arrows,Rightwards triple arrow
+rsaquo,›,U+0203A,Punctuation,Right single angle quotation mark
+Rscr,ℛ,U+0211B,Latin Letters,Script capital R
+rscr,𝓇,U+1D4C7,Latin Letters,Script small r
+Rsh,↱,U+021B1,Arrows,Rightwards arrow with hook
+rsh,↱,U+021B1,Arrows,Rightwards arrow with hook
+rsqb,],U+0005D,Punctuation,Right square bracket
+rsquo,’,U+02019,Punctuation,Right single quotation mark
+rsquor,’,U+02019,Punctuation,Right single quotation mark
+rthree,⋌,U+022CC,Mathematical Symbols,Rightwards three times
+rtimes,⋊,U+022CA,Mathematical Symbols,Rightwards times
+rtri,▹,U+025B9,Geometric Shapes,Right triangle
+rtrie,⊵,U+022B5,Mathematical Symbols,Right triangle equal
+rtrif,▸,U+025B8,Geometric Shapes,Right triangle filled
+rtriltri,⧎,U+029CE,Mathematical Symbols,Right triangle with left triangle
+RuleDelayed,⧴,U+029F4,Mathematical Symbols,Rule delayed
+ruluhar,⥨,U+02968,Arrows,Rightwards arrow with upwards harpoon
+rx,℞,U+0211E,Latin Letters,Prescription
+Sacute,Ś,U+0015A,Latin Letters,Latin capital letter S with acute
+sacute,ś,U+0015B,Latin Letters,Latin small letter s with acute
+sbquo,‚,U+0201A,Punctuation,Single low-9 quotation mark
+Sc,⪼,U+02ABC,Mathematical Symbols,Succeeds
+sc,≻,U+0227B,Mathematical Symbols,Succeeds
+scap,⪸,U+02AB8,Mathematical Symbols,Succeeds above almost equal to
+Scaron,Š,U+00160,Latin Letters,Latin capital letter S with caron
+scaron,š,U+00161,Latin Letters,Latin small letter s with caron
+sccue,≽,U+0227D,Mathematical Symbols,Succeeds or equal to
+scE,⪴,U+02AB4,Mathematical Symbols,Succeeds or equal to
+sce,⪰,U+02AB0,Mathematical Symbols,Succeeds or equal to
+Scedil,Ş,U+0015E,Latin Letters,Latin capital letter S with cedilla
+scedil,ş,U+0015F,Latin Letters,Latin small letter s with cedilla
+Scirc,Ŝ,U+0015C,Latin Letters,Latin capital letter S with circumflex
+scirc,ŝ,U+0015D,Latin Letters,Latin small letter s with circumflex
+scnap,⪺,U+02ABA,Mathematical Symbols,Succeeds above not equal to
+scnE,⪶,U+02AB6,Mathematical Symbols,Succeeds above not equal to
+scnsim,⋩,U+022E9,Mathematical Symbols,Succeeds but not equivalent to
+scpolint,⨓,U+02A13,Mathematical Symbols,Succeeds integral
+scsim,≿,U+0227F,Mathematical Symbols,Succeeds or equivalent to
+Scy,С,U+00421,Latin Letters,Cyrillic capital letter Es
+scy,с,U+00441,Latin Letters,Cyrillic small letter es
+sdot,⋅,U+022C5,Mathematical Symbols,Dot operator
+sdotb,⊡,U+022A1,Mathematical Symbols,Squared dot operator
+sdote,⩦,U+02A66,Mathematical Symbols,Dot equal
+searhk,⤥,U+02925,Arrows,Rightwards arrow with harpoon
+seArr,⇘,U+021D8,Arrows,Rightwards double arrow
+searr,↘,U+02198,Arrows,Rightwards arrow
+searrow,↘,U+02198,Arrows,Rightwards arrow
+sect,§,U+000A7,Punctuation,Section sign
+semi,;,U+0003B,Punctuation,Semicolon
+seswar,⤩,U+02929,Arrows,Rightwards arrow with harpoon
+setminus,∖,U+02216,Mathematical Symbols,Set minus
+setmn,∖,U+02216,Mathematical Symbols,Set minus
+sext,✶,U+02736,Miscellaneous Symbols,Six pointed star
+Sfr,𝔖,U+1D516,Latin Letters,Fraktur capital S
+sfr,𝔰,U+1D530,Latin Letters,Fraktur small s
+sfrown,⌢,U+02322,Technical Symbols,Small frown
+sharp,♯,U+0266F,Miscellaneous Symbols,Sharp
+SHCHcy,Щ,U+00429,Latin Letters,Cyrillic capital letter Shcha
+shchcy,щ,U+00449,Latin Letters,Cyrillic small letter shcha
+SHcy,Ш,U+00428,Latin Letters,Cyrillic capital letter Sha
+shcy,ш,U+00448,Latin Letters,Cyrillic small letter sha
+ShortDownArrow,↓,U+02193,Arrows,Downwards arrow
+ShortLeftArrow,←,U+02190,Arrows,Leftwards arrow
+shortmid,∣,U+02223,Mathematical Symbols,Short mid
+shortparallel,∥,U+02225,Mathematical Symbols,Short parallel
+ShortRightArrow,→,U+02192,Arrows,Rightwards arrow
+ShortUpArrow,↑,U+02191,Arrows,Upwards arrow
+shy,­,U+000AD,Punctuation,Soft hyphen
+Sigma,Σ,U+003A3,Greek Letters,Greek capital letter sigma
+sigma,σ,U+003C3,Greek Letters,Greek small letter sigma
+sigmaf,ς,U+003C2,Greek Letters,Greek small letter final sigma
+sigmav,ς,U+003C2,Greek Letters,Greek small letter final sigma
+sim,∼,U+0223C,Mathematical Symbols,Tilde operator
+simdot,⩪,U+02A6A,Mathematical Symbols,Tilde operator with dot
+sime,≃,U+02243,Mathematical Symbols,Tilde operator equal
+simeq,≃,U+02243,Mathematical Symbols,Tilde operator equal
+simg,⪞,U+02A9E,Mathematical Symbols,Tilde operator greater
+simgE,⪠,U+02AA0,Mathematical Symbols,Tilde operator greater equal
+siml,⪝,U+02A9D,Mathematical Symbols,Tilde operator less
+simlE,⪟,U+02A9F,Mathematical Symbols,Tilde operator less equal
+simne,≆,U+02246,Mathematical Symbols,Tilde operator not equal
+simplus,⨤,U+02A24,Mathematical Symbols,Tilde operator plus
+simrarr,⥲,U+02972,Arrows,Tilde operator with arrow
+slarr,←,U+02190,Arrows,Leftwards arrow
+SmallCircle,∘,U+02218,Mathematical Symbols,Small circle
+smallsetminus,∖,U+02216,Mathematical Symbols,Small set minus
+smashp,⨳,U+02A33,Mathematical Symbols,Small plus
+smeparsl,⧤,U+029E4,Mathematical Symbols,Small parallel
+smid,∣,U+02223,Mathematical Symbols,Small mid
+smile,⌣,U+02323,Technical Symbols,Smile
+smt,⪪,U+02AAA,Mathematical Symbols,Small tilde
+smte,⪬,U+02AAC,Mathematical Symbols,Small tilde equal
+smtes,⪬︀,U+02AAC U+0FE00,Mathematical Symbols,Small tilde equal
+SOFTcy,Ь,U+0042C,Latin Letters,Cyrillic capital letter Soft sign
+softcy,ь,U+0044C,Latin Letters,Cyrillic small letter soft sign
+sol,/,U+0002F,Punctuation,Slash
+solb,⧄,U+029C4,Technical Symbols,Slash with backslash
+solbar,⌿,U+0233F,Technical Symbols,Slash with bar
+sopf,𝕤,U+1D564,Latin Letters,Mathematical double-struck small s
+spades,♠,U+02660,Miscellaneous Symbols,Black spade suit
+spadesuit,♠,U+02660,Miscellaneous Symbols,Black spade suit
+spar,∥,U+02225,Mathematical Symbols,Parallel to
+sqcap,⊓,U+02293,Mathematical Symbols,Square intersection
+sqcaps,⊓︀,U+02293 U+0FE00,Mathematical Symbols,Square intersection
+sqcup,⊔,U+02294,Mathematical Symbols,Square union
+sqcups,⊔︀,U+02294 U+0FE00,Mathematical Symbols,Square union
+Sqrt,√,U+0221A,Mathematical Symbols,Square root
+sqsub,⊏,U+0228F,Mathematical Symbols,Square subset
+sqsube,⊑,U+02291,Mathematical Symbols,Square subset equal
+sqsubset,⊏,U+0228F,Mathematical Symbols,Square subset
+sqsubseteq,⊑,U+02291,Mathematical Symbols,Square subset equal
+sqsup,⊐,U+02290,Mathematical Symbols,Square superset
+sqsupe,⊒,U+02292,Mathematical Symbols,Square superset equal
+sqsupset,⊐,U+02290,Mathematical Symbols,Square superset
+sqsupseteq,⊒,U+02292,Mathematical Symbols,Square superset equal
+squ,□,U+025A1,Geometric Shapes,Square
+Square,□,U+025A1,Geometric Shapes,Square
+square,□,U+025A1,Geometric Shapes,Square
+SquareIntersection,⊓,U+02293,Mathematical Symbols,Square intersection
+SquareSubset,⊏,U+0228F,Mathematical Symbols,Square subset
+SquareSubsetEqual,⊑,U+02291,Mathematical Symbols,Square subset equal
+SquareSuperset,⊐,U+02290,Mathematical Symbols,Square superset
+SquareSupersetEqual,⊒,U+02292,Mathematical Symbols,Square superset equal
+SquareUnion,⊔,U+02294,Mathematical Symbols,Square union
+squarf,▪,U+025AA,Geometric Shapes,Black small square
+squf,▪,U+025AA,Geometric Shapes,Black small square
+srarr,→,U+02192,Arrows,Rightwards arrow
+Sscr,𝒮,U+1D4AE,Latin Letters,Mathematical script capital S
+sscr,𝓈,U+1D4C8,Latin Letters,Mathematical script small s
+ssetmn,∖,U+02216,Mathematical Symbols,Set minus
+ssmile,⌣,U+02323,Technical Symbols,Smile
+sstarf,⋆,U+022C6,Mathematical Symbols,Star
+Star,⋆,U+022C6,Mathematical Symbols,Star
+star,☆,U+02606,Miscellaneous Symbols,White star
+starf,★,U+02605,Miscellaneous Symbols,Black star
+straightepsilon,ϵ,U+003F5,Greek Letters,Greek lunate epsilon symbol
+straightphi,ϕ,U+003D5,Greek Letters,Greek phi symbol
+strns,¯,U+000AF,Punctuation,Macron
+Sub,⋐,U+022D0,Mathematical Symbols,Subset
+sub,⊂,U+02282,Mathematical Symbols,Subset
+subdot,⪽,U+02ABD,Mathematical Symbols,Subset with dot
+subE,⫅,U+02AC5,Mathematical Symbols,Subset equal
+sube,⊆,U+02286,Mathematical Symbols,Subset equal
+subedot,⫃,U+02AC3,Mathematical Symbols,Subset with dot
+submult,⫁,U+02AC1,Mathematical Symbols,Subset with multiplication
+subnE,⫋,U+02ACB,Mathematical Symbols,Subset not equal
+subne,⊊,U+0228A,Mathematical Symbols,Subset not equal
+subplus,⪿,U+02ABF,Mathematical Symbols,Subset with plus
+subrarr,⥹,U+02979,Arrows,Subset with arrow
+Subset,⋐,U+022D0,Mathematical Symbols,Subset
+subset,⊂,U+02282,Mathematical Symbols,Subset
+subseteq,⊆,U+02286,Mathematical Symbols,Subset equal
+subseteqq,⫅,U+02AC5,Mathematical Symbols,Subset equal
+SubsetEqual,⊆,U+02286,Mathematical Symbols,Subset equal
+subsetneq,⊊,U+0228A,Mathematical Symbols,Subset not equal
+subsetneqq,⫋,U+02ACB,Mathematical Symbols,Subset not equal
+subsim,⫇,U+02AC7,Mathematical Symbols,Subset with similarity
+subsub,⫕,U+02AD5,Mathematical Symbols,Subset with subset
+subsup,⫓,U+02AD3,Mathematical Symbols,Subset with superset
+succ,≻,U+0227B,Mathematical Symbols,Succeeds
+succapprox,⪸,U+02AB8,Mathematical Symbols,Succeeds approximately
+succcurlyeq,≽,U+0227D,Mathematical Symbols,Succeeds or equal
+Succeeds,≻,U+0227B,Mathematical Symbols,Succeeds
+SucceedsEqual,⪰,U+02AB0,Mathematical Symbols,Succeeds or equal
+SucceedsSlantEqual,≽,U+0227D,Mathematical Symbols,Succeeds or equal
+SucceedsTilde,≿,U+0227F,Mathematical Symbols,Succeeds or equivalent
+succeq,⪰,U+02AB0,Mathematical Symbols,Succeeds or equal
+succnapprox,⪺,U+02ABA,Mathematical Symbols,Succeeds not approximately
+succneqq,⪶,U+02AB6,Mathematical Symbols,Succeeds not equal
+succnsim,⋩,U+022E9,Mathematical Symbols,Succeeds not similar
+succsim,≿,U+0227F,Mathematical Symbols,Succeeds or equivalent
+SuchThat,∋,U+0220B,Mathematical Symbols,Such that
+Sum,∑,U+02211,Mathematical Symbols,N-ary summation
+sum,∑,U+02211,Mathematical Symbols,N-ary summation
+sung,♪,U+0266A,Miscellaneous Symbols,Eighth note
+Sup,⋑,U+022D1,Mathematical Symbols,Superset
+sup,⊃,U+02283,Mathematical Symbols,Superset
+sup1,¹,U+000B9,Latin Letters,Super script one
+sup2,²,U+000B2,Latin Letters,Super script two
+sup3,³,U+000B3,Latin Letters,Super script three
+supdot,⪾,U+02ABE,Mathematical Symbols,Superset with dot
+supdsub,⫘,U+02AD8,Mathematical Symbols,Superset with subset
+supE,⫆,U+02AC6,Mathematical Symbols,Superset equal
+supe,⊇,U+02287,Mathematical Symbols,Superset equal
+supedot,⫄,U+02AC4,Mathematical Symbols,Superset with dot
+Superset,⊃,U+02283,Mathematical Symbols,Superset
+SupersetEqual,⊇,U+02287,Mathematical Symbols,Superset equal
+suphsol,⟉,U+027C9,Technical Symbols,Superset with slash
+suphsub,⫗,U+02AD7,Mathematical Symbols,Superset with subset
+suplarr,⥻,U+0297B,Arrows,Superset with arrow
+supmult,⫂,U+02AC2,Mathematical Symbols,Superset with multiplication
+supnE,⫌,U+02ACC,Mathematical Symbols,Superset not equal
+supne,⊋,U+0228B,Mathematical Symbols,Superset not equal
+supplus,⫀,U+02AC0,Mathematical Symbols,Superset with plus
+Supset,⋑,U+022D1,Mathematical Symbols,Superset
+supset,⊃,U+02283,Mathematical Symbols,Superset
+supseteq,⊇,U+02287,Mathematical Symbols,Superset equal
+supseteqq,⫆,U+02AC6,Mathematical Symbols,Superset equal
+supsetneq,⊋,U+0228B,Mathematical Symbols,Superset not equal
+supsetneqq,⫌,U+02ACC,Mathematical Symbols,Superset not equal
+supsim,⫈,U+02AC8,Mathematical Symbols,Superset with similarity
+supsub,⫔,U+02AD4,Mathematical Symbols,Superset with subset
+supsup,⫖,U+02AD6,Mathematical Symbols,Superset with superset
+swarhk,⤦,U+02926,Arrows,South west arrow with hook
+swArr,⇙,U+021D9,Arrows,South west double arrow
+swarr,↙,U+02199,Arrows,South west arrow
+swarrow,↙,U+02199,Arrows,South west arrow
+swnwar,⤪,U+0292A,Arrows,South west arrow with north west arrow
+szlig,ß,U+000DF,Latin Letters,Latin small letter sharp s
+Tab,␉,U+00009,Punctuation,Character tabulation
+target,⌖,U+02316,Technical Symbols,Position indicator
+Tau,Τ,U+003A4,Greek Letters,Greek capital letter tau
+tau,τ,U+003C4,Greek Letters,Greek small letter tau
+tbrk,⎴,U+023B4,Technical Symbols,Top square bracket
+Tcaron,Ť,U+00164,Latin Letters,Latin capital letter T with caron
+tcaron,ť,U+00165,Latin Letters,Latin small letter t with caron
+Tcedil,Ţ,U+00162,Latin Letters,Latin capital letter T with cedilla
+tcedil,ţ,U+00163,Latin Letters,Latin small letter t with cedilla
+Tcy,Т,U+00422,Latin Letters,Cyrillic capital letter Te
+tcy,т,U+00442,Latin Letters,Cyrillic small letter te
+tdot,◌⃛,U+020DB,Punctuation,Combining three dots
+telrec,⌕,U+02315,Technical Symbols,Telephone recorder
+Tfr,𝔗,U+1D517,Latin Letters,Mathematical Fraktur capital T
+tfr,𝔱,U+1D531,Latin Letters,Mathematical Fraktur small t
+there4,∴,U+02234,Mathematical Symbols,Therefore
+Therefore,∴,U+02234,Mathematical Symbols,Therefore
+therefore,∴,U+02234,Mathematical Symbols,Therefore
+Theta,Θ,U+00398,Greek Letters,Greek capital letter theta
+theta,θ,U+003B8,Greek Letters,Greek small letter theta
+thetasym,ϑ,U+003D1,Greek Letters,Greek theta symbol
+thetav,ϑ,U+003D1,Greek Letters,Greek theta symbol
+thickapprox,≈,U+02248,Mathematical Symbols,Approximately equal
+thicksim,∼,U+0223C,Mathematical Symbols,Similar to
+ThickSpace,  ,U+0205F U+0200A,Punctuation,Thick space
+thinsp, ,U+02009,Punctuation,Thin space
+ThinSpace, ,U+02009,Punctuation,Thin space
+thkap,≈,U+02248,Mathematical Symbols,Approximately equal
+thksim,∼,U+0223C,Mathematical Symbols,Similar to
+THORN,Þ,U+000DE,Latin Letters,Latin capital letter thorn
+thorn,þ,U+000FE,Latin Letters,Latin small letter thorn
+Tilde,∼,U+0223C,Mathematical Symbols,Tilde
+tilde,˜,U+002DC,Punctuation,Small tilde
+TildeEqual,≃,U+02243,Mathematical Symbols,Tilde equal
+TildeFullEqual,≅,U+02245,Mathematical Symbols,Tilde fully equal
+TildeTilde,≈,U+02248,Mathematical Symbols,Approximately equal
+times,×,U+000D7,Mathematical Symbols,Multiplication sign
+timesb,⊠,U+022A0,Mathematical Symbols,Squared times
+timesbar,⨱,U+02A31,Mathematical Symbols,Multiplication sign with bar
+timesd,⨰,U+02A30,Mathematical Symbols,Multiplication sign with dot
+tint,∭,U+0222D,Mathematical Symbols,Triple integral
+toea,⤨,U+02928,Arrows,Top right arrow with hook
+top,⊤,U+022A4,Mathematical Symbols,Down tack
+topbot,⌶,U+02336,Technical Symbols,Top and bottom
+topcir,⫱,U+02AF1,Mathematical Symbols,Top circle
+Topf,𝕋,U+1D54B,Latin Letters,Mathematical double-struck capital T
+topf,𝕥,U+1D565,Latin Letters,Mathematical double-struck small t
+topfork,⫚,U+02ADA,Mathematical Symbols,Top fork
+tosa,⤩,U+02929,Arrows,Top left arrow with hook
+tprime,‴,U+02034,Punctuation,Triple prime
+TRADE,™,U+02122,Technical Symbols,Trade mark
+trade,™,U+02122,Technical Symbols,Trade mark
+triangle,▵,U+025B5,Geometric Shapes,White up-pointing triangle
+triangledown,▿,U+025BF,Geometric Shapes,White down-pointing triangle
+triangleleft,◃,U+025C3,Geometric Shapes,White left-pointing triangle
+trianglelefteq,⊴,U+022B4,Mathematical Symbols,Triangle left equal
+triangleq,≜,U+0225C,Mathematical Symbols,Triangle equal
+triangleright,▹,U+025B9,Geometric Shapes,White right-pointing triangle
+trianglerighteq,⊵,U+022B5,Mathematical Symbols,Triangle right equal
+tridot,◬,U+025EC,Geometric Shapes,Triangular dot
+trie,≜,U+0225C,Mathematical Symbols,Triangle equal
+triminus,⨺,U+02A3A,Mathematical Symbols,Minus sign in triangle
+TripleDot,◌⃛,U+020DB,Punctuation,Combining three dots
+triplus,⨹,U+02A39,Mathematical Symbols,Plus sign in triangle
+trisb,⧍,U+029CD,Mathematical Symbols,Triangle with serifs
+tritime,⨻,U+02A3B,Mathematical Symbols,Multiplication sign in triangle
+trpezium,⏢,U+023E2,Technical Symbols,Trapezium
+Tscr,𝒯,U+1D4AF,Latin Letters,Mathematical script capital T
+tscr,𝓉,U+1D4C9,Latin Letters,Mathematical script small t
+TScy,Ц,U+00426,Latin Letters,Cyrillic capital letter Tse
+tscy,ц,U+00446,Latin Letters,Cyrillic small letter tse
+TSHcy,Ћ,U+0040B,Latin Letters,Cyrillic capital letter Tshe
+tshcy,ћ,U+0045B,Latin Letters,Cyrillic small letter tshe
+Tstrok,Ŧ,U+00166,Latin Letters,Latin capital letter T with stroke
+tstrok,ŧ,U+00167,Latin Letters,Latin small letter t with stroke
+twixt,≬,U+0226C,Mathematical Symbols,Between
+twoheadleftarrow,↞,U+0219E,Arrows,Leftwards two-headed arrow
+twoheadrightarrow,↠,U+021A0,Arrows,Rightwards two-headed arrow
+Uacute,Ú,U+000DA,Latin Letters,Latin capital letter U with acute
+uacute,ú,U+000FA,Latin Letters,Latin small letter u with acute
+Uarr,↟,U+0219F,Arrows,Upwards two-headed arrow
+uArr,⇑,U+021D1,Arrows,Upwards double arrow
+uarr,↑,U+02191,Arrows,Upwards arrow
+Uarrocir,⥉,U+02949,Arrows,Upwards arrow with circle
+Ubrcy,Ў,U+0040E,Latin Letters,Cyrillic capital letter short U
+ubrcy,ў,U+0045E,Latin Letters,Cyrillic small letter short u
+Ubreve,Ŭ,U+0016C,Latin Letters,Latin capital letter U with breve
+ubreve,ŭ,U+0016D,Latin Letters,Latin small letter u with breve
+Ucirc,Û,U+000DB,Latin Letters,Latin capital letter U with circumflex
+ucirc,û,U+000FB,Latin Letters,Latin small letter u with circumflex
+Ucy,У,U+00423,Latin Letters,Cyrillic capital letter U
+ucy,у,U+00443,Latin Letters,Cyrillic small letter u
+udarr,⇅,U+021C5,Arrows,Up down arrow
+Udblac,Ű,U+00170,Latin Letters,Latin capital letter U with double acute
+udblac,ű,U+00171,Latin Letters,Latin small letter u with double acute
+udhar,⥮,U+0296E,Arrows,Up down harpoon
+ufisht,⥾,U+0297E,Arrows,Up fishhook arrow
+Ufr,𝔘,U+1D518,Latin Letters,Fraktur capital U
+ufr,𝔲,U+1D532,Latin Letters,Fraktur small u
+Ugrave,Ù,U+000D9,Latin Letters,Latin capital letter U with grave
+ugrave,ù,U+000F9,Latin Letters,Latin small letter u with grave
+uHar,⥣,U+02963,Arrows,Up harpoon
+uharl,↿,U+021BF,Arrows,Up harpoon left
+uharr,↾,U+021BE,Arrows,Up harpoon right
+uhblk,▀,U+02580,Geometric Shapes,Upper half block
+ulcorn,⌜,U+0231C,Technical Symbols,Upper left corner
+ulcorner,⌜,U+0231C,Technical Symbols,Upper left corner
+ulcrop,⌏,U+0230F,Technical Symbols,Upper left crop
+ultri,◸,U+025F8,Geometric Shapes,Upper left triangle
+Umacr,Ū,U+0016A,Latin Letters,Latin capital letter U with macron
+umacr,ū,U+0016B,Latin Letters,Latin small letter u with macron
+uml,¨,U+000A8,Punctuation,Umlaut
+UnderBar,_,U+0005F,Punctuation,Underscore
+UnderBrace,⏟,U+023DF,Technical Symbols,Under brace
+UnderBracket,⎵,U+023B5,Technical Symbols,Under bracket
+UnderParenthesis,⏝,U+023DD,Technical Symbols,Under parenthesis
+Union,⋃,U+022C3,Mathematical Symbols,Union
+UnionPlus,⊎,U+0228E,Mathematical Symbols,Union plus
+Uogon,Ų,U+00172,Latin Letters,Latin capital letter U with ogonek
+uogon,ų,U+00173,Latin Letters,Latin small letter u with ogonek
+Uopf,𝕌,U+1D54C,Latin Letters,Double-struck capital U
+uopf,𝕦,U+1D566,Latin Letters,Double-struck small u
+UpArrow,↑,U+02191,Arrows,Up arrow
+Uparrow,⇑,U+021D1,Arrows,Up double arrow
+uparrow,↑,U+02191,Arrows,Up arrow
+UpArrowBar,⤒,U+02912,Arrows,Up arrow bar
+UpArrowDownArrow,⇅,U+021C5,Arrows,Up down arrow
+UpDownArrow,↕,U+02195,Arrows,Up down arrow
+Updownarrow,⇕,U+021D5,Arrows,Up down double arrow
+updownarrow,↕,U+02195,Arrows,Up down arrow
+UpEquilibrium,⥮,U+0296E,Arrows,Up equilibrium
+upharpoonleft,↿,U+021BF,Arrows,Up harpoon left
+upharpoonright,↾,U+021BE,Arrows,Up harpoon right
+uplus,⊎,U+0228E,Mathematical Symbols,Union plus
+UpperLeftArrow,↖,U+02196,Arrows,Upper left arrow
+UpperRightArrow,↗,U+02197,Arrows,Upper right arrow
+Upsi,ϒ,U+003D2,Greek Letters,Greek capital letter upsilon
+upsi,υ,U+003C5,Greek Letters,Greek small letter upsilon
+upsih,ϒ,U+003D2,Greek Letters,Greek upsilon symbol
+Upsilon,Υ,U+003A5,Greek Letters,Greek capital letter upsilon
+upsilon,υ,U+003C5,Greek Letters,Greek small letter upsilon
+UpTee,⊥,U+022A5,Mathematical Symbols,Up tee
+UpTeeArrow,⊥,U+021A5,Arrows,Up tee arrow
+upuparrows,↥,U+021C8,Arrows,Up up arrows
+Uscr,𝒰,U+1D4B0,Latin Letters,Script capital U
+uscr,𝓊,U+1D4CA,Latin Letters,Script small u
+utdot,⋰,U+022F0,Mathematical Symbols,Up triple dot
+Utilde,Ũ,U+00168,Latin Letters,Latin capital letter U with tilde
+utilde,ũ,U+00169,Latin Letters,Latin small letter u with tilde
+Uuml,Ü,U+000DC,Latin Letters,Latin capital letter U with diaeresis
+uuml,ü,U+000FC,Latin Letters,Latin small letter u with diaeresis
+Vbar,⊫,U+02AEB,Mathematical Symbols,Double vertical bar
+vBar,⊩,U+02AE8,Mathematical Symbols,Vertical bar
+vBarv,⫨,U+02AE9,Mathematical Symbols,Vertical bar with bar
+Vcy,⊻,U+00412,Latin Letters,Cyrillic capital letter Ve
+vcy,в,U+00432,Latin Letters,Cyrillic small letter ve
+veebar,⊻,U+022BB,Mathematical Symbols,Logical or with bar
+vee,∨,U+02228,Mathematical Symbols,Logical or
+veeeq,⩚,U+02A5B,Mathematical Symbols,Logical or with equals
+vellip,⋁,U+022EE,Mathematical Symbols,Vertical ellipsis
+Verbar,℣,U+02016,Punctuation,Double vertical line
+verbar,|,U+0007C,Punctuation,Vertical line
+Vert,‖,U+02016,Punctuation,Double vertical line
+vert,|,U+0007C,Punctuation,Vertical line
+VerticalBar,∣,U+02223,Mathematical Symbols,Vertical bar
+VerticalLine,|,U+0007C,Punctuation,Vertical line
+VerticalSeparator,❘,U+02758,Technical Symbols,Vertical separator
+VerticalTilde,≀,U+02240,Mathematical Symbols,Vertical tilde
+VeryThinSpace, ,U+0200A,Punctuation,Very thin space
+Vfr,𝔙,U+1D519,Latin Letters,Fraktur capital V
+vfr,𝔳,U+1D533,Latin Letters,Fraktur small v
+vltri,⊲,U+022B2,Mathematical Symbols,Left triangle
+vnsub,⊂⃒,U+02282 U+020D2,Mathematical Symbols,Not subset
+vnsup,⊃⃒,U+02283 U+020D2,Mathematical Symbols,Not superset
+Vopf,𝕍,U+1D54D,Latin Letters,Double-struck capital V
+vopf,𝕧,U+1D567,Latin Letters,Double-struck small v
+vprop,∝,U+0221D,Mathematical Symbols,Proportional to
+vrtri,⊳,U+022B3,Mathematical Symbols,Right triangle
+Vscr,𝒱,U+1D4B1,Latin Letters,Script capital V
+vscr,𝓋,U+1D4CB,Latin Letters,Script small v
+vsubnE,⫋︀,U+02ACB U+0FE00,Mathematical Symbols,Not subset equal
+vsubne,⊊︀,U+0228A U+0FE00,Mathematical Symbols,Not subset
+vsupnE,⫌︀,U+02ACC U+0FE00,Mathematical Symbols,Not superset equal
+vsupne,⊋︀,U+0228B U+0FE00,Mathematical Symbols,Not superset
+Vvdash,⊪,U+022AA,Mathematical Symbols,Triple vertical bar
+vzigzag,⦚,U+0299A,Technical Symbols,Zigzag
+Wcirc,Ŵ,U+00174,Latin Letters,Latin capital letter W with circumflex
+wcirc,ŵ,U+00175,Latin Letters,Latin small letter w with circumflex
+wedbar,⩟,U+02A5F,Mathematical Symbols,Logical and with bar
+Wedge,⋀,U+022C0,Mathematical Symbols,Logical and
+wedge,∧,U+02227,Mathematical Symbols,Logical and
+wedgeq,≙,U+02259,Mathematical Symbols,Logical and with equals
+weierp,℘,U+02118,Mathematical Symbols,Weierstrass p
+Wfr,𝔚,U+1D51A,Latin Letters,Fraktur capital W
+wfr,𝔴,U+1D534,Latin Letters,Fraktur small w
+Wopf,𝕎,U+1D54E,Latin Letters,Double-struck capital W
+wopf,𝕨,U+1D568,Latin Letters,Double-struck small w
+wp,℘,U+02118,Mathematical Symbols,Weierstrass p
+wr,≀,U+02240,Mathematical Symbols,Wreath product
+wreath,≀,U+02240,Mathematical Symbols,Wreath product
+Wscr,𝒲,U+1D4B2,Latin Letters,Script capital W
+wscr,𝓌,U+1D4CC,Latin Letters,Script small w
+xcap,⋂,U+022C2,Mathematical Symbols,Intersection
+xcirc,◯,U+025EF,Geometric Shapes,Large circle
+xcup,⋃,U+022C3,Mathematical Symbols,Union
+xdtri,▽,U+025BD,Geometric Shapes,Down triangle
+Xfr,𝔛,U+1D51B,Latin Letters,Fraktur capital X
+xfr,𝔵,U+1D535,Latin Letters,Fraktur small x
+xhArr,⟺,U+027FA,Arrows,Left right double arrow
+xharr,⟷,U+027F7,Arrows,Left right arrow
+Xi,Ξ,U+0039E,Greek Letters,Greek capital letter xi
+xi,ξ,U+003BE,Greek Letters,Greek small letter xi
+xlArr,⟸,U+027F8,Arrows,Left double arrow
+xlarr,⟵,U+027F5,Arrows,Left arrow
+xmap,⟼,U+027FC,Arrows,Map
+xnis,⋻,U+022FB,Mathematical Symbols,Not in set
+xodot,⨀,U+02A00,Mathematical Symbols,Circle dot
+Xopf,𝕏,U+1D54F,Latin Letters,Double-struck capital X
+xopf,𝕩,U+1D569,Latin Letters,Double-struck small x
+xoplus,⨁,U+02A01,Mathematical Symbols,Circle plus
+xotime,⨂,U+02A02,Mathematical Symbols,Circle times
+xrArr,⟹,U+027F9,Arrows,Right double arrow
+xrarr,⟶,U+027F6,Arrows,Right arrow
+Xscr,𝒳,U+1D4B3,Latin Letters,Script capital X
+xscr,𝓍,U+1D4CD,Latin Letters,Script small x
+xsqcup,⨆,U+02A06,Mathematical Symbols,Square union
+xuplus,⨄,U+02A04,Mathematical Symbols,Union plus
+xutri,△,U+025B3,Geometric Shapes,Up triangle
+xvee,⋁,U+022C1,Mathematical Symbols,Union
+xwedge,⋀,U+022C0,Mathematical Symbols,Intersection
+Yacute,Ý,U+000DD,Latin Letters,Latin capital letter Y with acute
+yacute,ý,U+000FD,Latin Letters,Latin small letter y with acute
+YAcy,Я,U+0042F,Latin Letters,Cyrillic capital letter Ya
+yacy,я,U+0044F,Latin Letters,Cyrillic small letter ya
+Ycirc,Ŷ,U+00176,Latin Letters,Latin capital letter Y with circumflex
+ycirc,ŷ,U+00177,Latin Letters,Latin small letter y with circumflex
+Ycy,Ы,U+0042B,Latin Letters,Cyrillic capital letter Y
+ycy,ы,U+0044B,Latin Letters,Cyrillic small letter y
+yen,¥,U+000A5,Currency,Yen sign
+Yfr,𝔜,U+1D51C,Latin Letters,Fraktur capital Y
+yfr,𝔶,U+1D536,Latin Letters,Fraktur small y
+YIcy,Ї,U+00407,Latin Letters,Cyrillic capital letter Yi
+yicy,ї,U+00457,Latin Letters,Cyrillic small letter yi
+Yopf,𝕐,U+1D550,Latin Letters,Double-struck capital Y
+yopf,𝕪,U+1D56A,Latin Letters,Double-struck small y
+Yscr,𝒴,U+1D4B4,Latin Letters,Script capital Y
+yscr,𝓎,U+1D4CE,Latin Letters,Script small y
+YUcy,Ю,U+0042E,Latin Letters,Cyrillic capital letter Yu
+yucy,ю,U+0044E,Latin Letters,Cyrillic small letter yu
+Yuml,Ÿ,U+00178,Latin Letters,Latin capital letter Y with diaeresis
+yuml,ÿ,U+000FF,Latin Letters,Latin small letter y with diaeresis
+Zacute,Ź,U+00179,Latin Letters,Latin capital letter Z with acute
+zacute,ź,U+0017A,Latin Letters,Latin small letter z with acute
+Zcaron,Ž,U+0017D,Latin Letters,Latin capital letter Z with caron
+zcaron,ž,U+0017E,Latin Letters,Latin small letter z with caron
+Zcy,З,U+00417,Latin Letters,Cyrillic capital letter Ze
+zcy,з,U+00437,Latin Letters,Cyrillic small letter ze
+Zdot,Ż,U+0017B,Latin Letters,Latin capital letter Z with dot
+zdot,ż,U+0017C,Latin Letters,Latin small letter z with dot
+zeetrf,ℨ,U+02128,Latin Letters,Blackletter capital Z
+ZeroWidthSpace,​,U+0200B,Punctuation,Zero width space
+Zeta,Ζ,U+00396,Greek Letters,Greek capital letter zeta
+zeta,ζ,U+003B6,Greek Letters,Greek small letter zeta
+Zfr,ℨ,U+02128,Latin Letters,Blackletter capital Z
+zfr,𝔷,U+1D537,Latin Letters,Blackletter small z
+ZHcy,Ж,U+00416,Latin Letters,Cyrillic capital letter Zhe
+zhcy,ж,U+00436,Latin Letters,Cyrillic small letter zhe
+zigrarr,⇝,U+021DD,Arrows,Zigzag arrow
+Zopf,ℤ,U+02124,Latin Letters,Double-struck capital Z
+zopf,𝕫,U+1D56B,Latin Letters,Double-struck small z
+Zscr,𝒵,U+1D4B5,Latin Letters,Script capital Z
+zscr,𝓏,U+1D4CF,Latin Letters,Script small z
