@@ -18,14 +18,14 @@ import Sun from "@/icons/sun.svg";
 import { useSidebar } from "@/providers/SidebarProvider";
 
 const Header = () => {
-  const { theme, setTheme } = useTheme();
+  const { setTheme, resolvedTheme } = useTheme();
   const searchParams = useSearchParams();
   const { replace } = useRouter();
 
   const isList = searchParams.get("view") === "list";
 
   const toggleTheme = () => {
-    setTheme(theme === "dark" ? "light" : "dark");
+    setTheme(resolvedTheme === "dark" ? "light" : "dark");
   };
 
   const { toggleSidebar } = useSidebar();
@@ -61,7 +61,7 @@ const Header = () => {
         onClick={toggleTheme}
         className="shrink-0 rounded-md border border-outline p-1.5 hover:bg-foreground/5 md:p-2.5"
       >
-        {theme === "dark" ? (
+        {resolvedTheme === "dark" ? (
           <Image src={Sun} alt="Sun" className="size-6" />
         ) : (
           <Image src={Moon} alt="Moon" className="size-6" />
