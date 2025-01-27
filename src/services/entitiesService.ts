@@ -1,4 +1,4 @@
-import { Entity } from "@/types/Entity";
+import type { Entity } from "@/types/Entity";
 import type { Suggestion } from "@/types/Suggestions";
 
 export const getEntities: (params: {

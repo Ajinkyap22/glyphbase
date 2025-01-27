@@ -17,9 +17,9 @@ const eslintConfig = [
         "error",
         {
           groups: [
-            ["builtin", "external"], // Core react/next imports and external libraries
-            "internal", // Internal imports
-            ["parent", "sibling", "index"], // Other relative imports
+            ["builtin", "external"],
+            "internal",
+            ["parent", "sibling", "index"],
           ],
           pathGroups: [
             {

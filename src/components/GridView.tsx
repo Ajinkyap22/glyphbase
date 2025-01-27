@@ -2,7 +2,7 @@ import React from "react";
 
 import EntityCard from "@/components/EntityCard";
 
-import { Entity } from "@/types/Entity";
+import type { Entity } from "@/types/Entity";
 
 type Props = {
   entities: Entity[] | undefined;

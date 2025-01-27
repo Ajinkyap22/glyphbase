@@ -1,8 +1,8 @@
 import React from "react";
 
-import { Entity } from "@/types/Entity";
+import EntityRow from "@/components/EntityRow";
 
-import EntityRow from "./EntityRow";
+import type { Entity } from "@/types/Entity";
 
 type Props = {
   entities: Entity[] | undefined;
