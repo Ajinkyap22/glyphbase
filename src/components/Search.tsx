@@ -2,7 +2,7 @@ import React from "react";
 
 import { useSearchParams, useRouter } from "next/navigation";
 
-import { keepPreviousData, useQuery } from "@tanstack/react-query";
+import { useQuery } from "@tanstack/react-query";
 
 import Suggestions from "@/components/Suggestions";
 
@@ -17,11 +17,10 @@ const Search = () => {
   const { replace } = useRouter();
 
   const search = searchParams.get("search") || "";
-  const { data: suggestions } = useQuery({
+  const { data: suggestions, isFetching } = useQuery({
     queryKey: ["suggestions", search],
     queryFn: () => getSuggestions({ search }),
     enabled: !!search,
-    placeholderData: keepPreviousData,
   });
 
   const handleSearch = useDebouncedCallback(
@@ -63,6 +62,12 @@ const Search = () => {
           suggestions={suggestions}
           handleSuggestionClick={handleSuggestionClick}
         />
+      )}
+
+      {isFetching && (
+        <div className="absolute left-0 top-12 z-10 flex w-full items-center justify-center gap-y-1 rounded-lg border border-outline bg-background">
+          <div className="spinner size-20 bg-primary"></div>
+        </div>
       )}
     </div>
   );

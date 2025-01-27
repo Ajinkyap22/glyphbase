@@ -1,3 +1,5 @@
+import { buildQueryParams } from "@/utils/buildQueryParams";
+
 import type { Entity } from "@/types/Entity";
 import type { Suggestion } from "@/types/Suggestions";
 
@@ -17,9 +19,14 @@ export const getEntities: (params: {
   page: number;
   limit: number;
 }) => {
-  const response = await fetch(
-    `/api/entities?search=${search}&category=${category}&page=${page}&limit=${limit}`,
-  );
+  const queryParams = buildQueryParams({
+    search,
+    category,
+    page,
+    limit,
+  });
+
+  const response = await fetch(`/api/entities?${queryParams}`);
 
   return response.json();
 };
@@ -27,7 +34,11 @@ export const getEntities: (params: {
 export const getSuggestions: (params: {
   search: string;
 }) => Promise<Suggestion[]> = async ({ search }: { search: string }) => {
-  const response = await fetch(`/api/suggestions?search=${search}`);
+  const queryParams = buildQueryParams({
+    search,
+  });
+
+  const response = await fetch(`/api/suggestions?${queryParams}`);
 
   return response.json();
 };
