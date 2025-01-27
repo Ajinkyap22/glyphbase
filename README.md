@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# GlyphBase - Discover and Explore HTML Entities & Symbols
 
-## Getting Started
+**GlyphBase** is a simple and powerful tool for developers and designers to easily search, find, and copy HTML entities and symbols. With a clean interface and a vast collection of characters, GlyphBase is the perfect tool to speed up your workflow.
 
-First, run the development server:
+## Preview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+You can check out the live preview of **GlyphBase** here: [GlyphBase](https://glyphbase.vercel.app)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Search**: Find HTML entities by name, description, or unicode.
+- **Categories**: Filter entities based on predefined categories.
+- **Favorites**: Save your favorite entities for quick access (stored in localStorage).
+- **Autocomplete**: Get suggestions as you type to quickly find what you're looking for.
+- **Infinite Scroll**: Seamlessly scroll through a large list of entities.
+- **Responsive Design**: Fully responsive for use on desktops, tablets, and phones.
+- **Theme Support**: Switch between dark and light themes.
+- **No Authentication**: No sign-up or login required.
+- **Quick Copy**: Easily copy the HTML entity code or Unicode of entities with a single click.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Technologies Used
 
-## Learn More
+- **Next.js**: React framework for building the frontend and API routes.
+- **Prisma**: ORM for interacting with the database.
+- **React Query**: Data fetching and caching.
+- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 
-To learn more about Next.js, take a look at the following resources:
+## Acknowledgments
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Special thanks to [fabrizioschiavi](https://github.com/fabrizioschiavi) for the [HTML entities data](https://github.com/fabrizioschiavi/html-entities)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Feel free to reach out with questions, suggestions, or feedback!
