@@ -21,11 +21,11 @@ const ListView = ({ entities }: Props) => {
             Category
           </th>
 
-          <th className="p-4 text-right font-semibold text-foreground/70">
+          <th className="p-4 text-center font-semibold text-foreground/70 sm:text-right">
             HTML Entity
           </th>
 
-          <th className="p-4 text-right font-semibold text-foreground/70">
+          <th className="p-4 text-center font-semibold text-foreground/70 sm:text-right">
             Unicode
           </th>
 

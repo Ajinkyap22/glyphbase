@@ -21,7 +21,7 @@ const EntityRow = ({ entity }: Props) => {
 
       <td className="p-4 text-center text-foreground/70">{category}</td>
 
-      <td className="p-4 text-right text-foreground/70">
+      <td className="p-4 text-center text-foreground/70 sm:text-right">
         <span className="inline-flex items-center gap-2">
           <span>{name}</span>
 
@@ -29,7 +29,7 @@ const EntityRow = ({ entity }: Props) => {
         </span>
       </td>
 
-      <td className="p-4 text-right text-foreground/70">
+      <td className="p-4 text-center text-foreground/70 sm:text-right">
         <span className="inline-flex items-center gap-2">
           <span>{unicode}</span>
 
