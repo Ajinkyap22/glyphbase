@@ -1,20 +1,19 @@
-import { Geist, Geist_Mono } from "next/font/google";
+import { IBM_Plex_Mono } from "next/font/google";
 
+// eslint-disable-next-line import/order
 import type { Metadata } from "next";
+
 import "./globals.css";
 
 import { ThemeProvider } from "next-themes";
 
 import QueryProvider from "@/providers/QueryProvider";
+import SidebarProvider from "@/providers/SidebarProvider";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const ibmPlexMono = IBM_Plex_Mono({
+  variable: "--font-ibm-plex-mono",
   subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+  weight: ["400", "700"],
 });
 
 export const metadata: Metadata = {
@@ -29,11 +28,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      <body className={`${ibmPlexMono.className} antialiased`}>
         <ThemeProvider attribute="class">
-          <QueryProvider>{children}</QueryProvider>
+          <QueryProvider>
+            <SidebarProvider>{children}</SidebarProvider>
+          </QueryProvider>
         </ThemeProvider>
       </body>
     </html>
