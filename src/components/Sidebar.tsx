@@ -6,6 +6,8 @@ import { useRouter, useSearchParams } from "next/navigation";
 
 import clsx from "clsx";
 
+import Logo from "@/components/icons/Logo";
+
 import { useSidebar } from "@/providers/SidebarProvider";
 
 const categories = [
@@ -44,9 +46,13 @@ const Sidebar = () => {
           isOpen ? "translate-x-0" : "-translate-x-full",
         )}
       >
-        <h2 className="text-lg font-semibold tracking-wide text-foreground/80">
-          Categories
-        </h2>
+        <div className="flex items-center gap-2">
+          <Logo />
+
+          <h1 className="text-xl font-bold tracking-wide text-foreground/75">
+            GlyphBase
+          </h1>
+        </div>
 
         <ul className="flex flex-col gap-2">
           {categories.map((category) => (
