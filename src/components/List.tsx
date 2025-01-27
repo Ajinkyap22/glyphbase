@@ -25,7 +25,7 @@ const List = () => {
 
   const favorites =
     category === "Favorites"
-      ? JSON.parse(localStorage.getItem("favorites") || "{}")
+      ? JSON.parse(localStorage?.getItem("favorites") || "{}")
       : undefined;
 
   const {
@@ -100,10 +100,10 @@ const List = () => {
   }
 
   if (
-    entities?.length === 0 &&
+    !entities?.length &&
     !isFetching &&
     !isFetchingNextPage &&
-    !favorites
+    !Object.entries(favorites || {}).length
   ) {
     return (
       <div className="flex h-full w-full flex-col items-center justify-center gap-y-4">
