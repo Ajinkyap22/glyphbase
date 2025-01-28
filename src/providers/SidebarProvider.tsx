@@ -21,6 +21,8 @@ const SidebarProvider = ({ children }: Props) => {
 
   const toggleSidebar = () => {
     setIsOpen((prev) => !prev);
+
+    document.body.classList.toggle("overflow-hidden");
   };
 
   return (
