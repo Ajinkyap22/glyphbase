@@ -4,7 +4,7 @@
 
 ## Preview
 
-You can check out the live preview of **GlyphBase** here: [GlyphBase](https://glyphbase.vercel.app)
+You can check out the live preview of **GlyphBase** here: [GlyphBase](https://www.glyphbase.com)
 
 ## Features
 
